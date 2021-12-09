@@ -1,0 +1,1800 @@
+Current learning rate: 0.01
+Epoch: [0][ 0/96]	Loss 2.3307 (2.3307)	Accuracy 16.406 (16.406)
+Epoch: [0][10/96]	Loss 1.2809 (1.4704)	Accuracy 62.500 (51.847)
+Epoch: [0][20/96]	Loss 0.9605 (1.3062)	Accuracy 69.531 (58.780)
+Epoch: [0][30/96]	Loss 0.8207 (1.1793)	Accuracy 74.219 (63.256)
+Epoch: [0][40/96]	Loss 0.8551 (1.0919)	Accuracy 72.656 (65.835)
+Epoch: [0][50/96]	Loss 0.7014 (1.0163)	Accuracy 81.250 (68.367)
+Epoch: [0][60/96]	Loss 0.8010 (0.9745)	Accuracy 72.656 (69.518)
+Epoch: [0][70/96]	Loss 0.7713 (0.9402)	Accuracy 78.906 (70.621)
+Epoch: [0][80/96]	Loss 0.6760 (0.9056)	Accuracy 77.344 (71.557)
+Epoch: [0][90/96]	Loss 0.7152 (0.8788)	Accuracy 77.344 (72.261)
+ * training  Accuracy 72.517
+Test: [ 0/24]	Loss 0.5358 (0.5358)	Accuracy 82.031 (82.031)
+Test: [10/24]	Loss 0.5875 (0.5597)	Accuracy 81.250 (80.895)
+Test: [20/24]	Loss 0.6175 (0.5920)	Accuracy 81.250 (80.208)
+ * vail Accuracy 80.205
+Current best accuracy: 80.20455169677734
+74.32177758216858
+Current learning rate: 0.01
+Epoch: [1][ 0/96]	Loss 0.6083 (0.6083)	Accuracy 80.469 (80.469)
+Epoch: [1][10/96]	Loss 0.6227 (0.5769)	Accuracy 77.344 (80.966)
+Epoch: [1][20/96]	Loss 0.4567 (0.5808)	Accuracy 85.156 (81.362)
+Epoch: [1][30/96]	Loss 0.4942 (0.5559)	Accuracy 81.250 (81.930)
+Epoch: [1][40/96]	Loss 0.4804 (0.5562)	Accuracy 85.156 (82.012)
+Epoch: [1][50/96]	Loss 0.4790 (0.5429)	Accuracy 82.812 (82.353)
+Epoch: [1][60/96]	Loss 0.4687 (0.5460)	Accuracy 85.156 (82.211)
+Epoch: [1][70/96]	Loss 0.6264 (0.5464)	Accuracy 80.469 (82.240)
+Epoch: [1][80/96]	Loss 0.6296 (0.5440)	Accuracy 81.250 (82.456)
+Epoch: [1][90/96]	Loss 0.4649 (0.5360)	Accuracy 82.812 (82.675)
+ * training  Accuracy 82.719
+Test: [ 0/24]	Loss 0.5502 (0.5502)	Accuracy 76.562 (76.562)
+Test: [10/24]	Loss 0.3213 (0.4694)	Accuracy 89.062 (83.381)
+Test: [20/24]	Loss 0.5448 (0.4973)	Accuracy 85.156 (82.924)
+ * vail Accuracy 83.009
+Current best accuracy: 83.00890350341797
+73.30539441108704
+Current learning rate: 0.01
+Epoch: [2][ 0/96]	Loss 0.2634 (0.2634)	Accuracy 91.406 (91.406)
+Epoch: [2][10/96]	Loss 0.4732 (0.4679)	Accuracy 87.500 (85.227)
+Epoch: [2][20/96]	Loss 0.3568 (0.4461)	Accuracy 85.156 (85.863)
+Epoch: [2][30/96]	Loss 0.3939 (0.4440)	Accuracy 85.938 (85.736)
+Epoch: [2][40/96]	Loss 0.5120 (0.4429)	Accuracy 82.031 (85.633)
+Epoch: [2][50/96]	Loss 0.5576 (0.4505)	Accuracy 82.812 (85.432)
+Epoch: [2][60/96]	Loss 0.5987 (0.4486)	Accuracy 81.250 (85.566)
+Epoch: [2][70/96]	Loss 0.4366 (0.4472)	Accuracy 82.812 (85.552)
+Epoch: [2][80/96]	Loss 0.4410 (0.4516)	Accuracy 85.156 (85.340)
+Epoch: [2][90/96]	Loss 0.3617 (0.4501)	Accuracy 89.062 (85.379)
+ * training  Accuracy 85.421
+Test: [ 0/24]	Loss 0.5581 (0.5581)	Accuracy 77.344 (77.344)
+Test: [10/24]	Loss 0.5681 (0.5124)	Accuracy 80.469 (82.102)
+Test: [20/24]	Loss 0.4310 (0.5076)	Accuracy 86.719 (82.143)
+ * vail Accuracy 82.118
+Current best accuracy: 83.00890350341797
+73.70861434936523
+Current learning rate: 0.01
+Epoch: [3][ 0/96]	Loss 0.3564 (0.3564)	Accuracy 88.281 (88.281)
+Epoch: [3][10/96]	Loss 0.3396 (0.4011)	Accuracy 89.062 (86.577)
+Epoch: [3][20/96]	Loss 0.4360 (0.4020)	Accuracy 87.500 (87.016)
+Epoch: [3][30/96]	Loss 0.4393 (0.4012)	Accuracy 82.812 (86.971)
+Epoch: [3][40/96]	Loss 0.6854 (0.4025)	Accuracy 75.781 (86.928)
+Epoch: [3][50/96]	Loss 0.3325 (0.3919)	Accuracy 88.281 (87.255)
+Epoch: [3][60/96]	Loss 0.3105 (0.3849)	Accuracy 91.406 (87.564)
+Epoch: [3][70/96]	Loss 0.3621 (0.3826)	Accuracy 87.500 (87.709)
+Epoch: [3][80/96]	Loss 0.3739 (0.3799)	Accuracy 89.062 (87.818)
+Epoch: [3][90/96]	Loss 0.4480 (0.3766)	Accuracy 85.938 (87.878)
+ * training  Accuracy 87.795
+Test: [ 0/24]	Loss 0.4300 (0.4300)	Accuracy 83.594 (83.594)
+Test: [10/24]	Loss 0.3804 (0.4330)	Accuracy 86.719 (84.943)
+Test: [20/24]	Loss 0.4436 (0.4561)	Accuracy 88.281 (84.635)
+ * vail Accuracy 84.692
+Current best accuracy: 84.69152069091797
+72.83569765090942
+Current learning rate: 0.01
+Epoch: [4][ 0/96]	Loss 0.3342 (0.3342)	Accuracy 89.062 (89.062)
+Epoch: [4][10/96]	Loss 0.4355 (0.3452)	Accuracy 85.938 (89.560)
+Epoch: [4][20/96]	Loss 0.3026 (0.3454)	Accuracy 89.062 (89.286)
+Epoch: [4][30/96]	Loss 0.2443 (0.3310)	Accuracy 92.188 (89.340)
+Epoch: [4][40/96]	Loss 0.3620 (0.3282)	Accuracy 86.719 (89.405)
+Epoch: [4][50/96]	Loss 0.3329 (0.3256)	Accuracy 90.625 (89.537)
+Epoch: [4][60/96]	Loss 0.3236 (0.3273)	Accuracy 88.281 (89.511)
+Epoch: [4][70/96]	Loss 0.4335 (0.3246)	Accuracy 86.719 (89.547)
+Epoch: [4][80/96]	Loss 0.3687 (0.3243)	Accuracy 89.062 (89.545)
+Epoch: [4][90/96]	Loss 0.2481 (0.3239)	Accuracy 91.406 (89.552)
+ * training  Accuracy 89.478
+Test: [ 0/24]	Loss 0.3996 (0.3996)	Accuracy 85.938 (85.938)
+Test: [10/24]	Loss 0.4660 (0.4851)	Accuracy 84.375 (83.807)
+Test: [20/24]	Loss 0.5876 (0.5059)	Accuracy 79.688 (83.147)
+ * vail Accuracy 83.141
+Current best accuracy: 84.69152069091797
+72.1290717124939
+Current learning rate: 0.01
+Epoch: [5][ 0/96]	Loss 0.2896 (0.2896)	Accuracy 89.062 (89.062)
+Epoch: [5][10/96]	Loss 0.4042 (0.4572)	Accuracy 83.594 (84.872)
+Epoch: [5][20/96]	Loss 0.2971 (0.4044)	Accuracy 92.969 (86.979)
+Epoch: [5][30/96]	Loss 0.3146 (0.3915)	Accuracy 89.062 (87.450)
+Epoch: [5][40/96]	Loss 0.2763 (0.3757)	Accuracy 93.750 (88.110)
+Epoch: [5][50/96]	Loss 0.3067 (0.3646)	Accuracy 90.625 (88.572)
+Epoch: [5][60/96]	Loss 0.2062 (0.3585)	Accuracy 93.750 (88.678)
+Epoch: [5][70/96]	Loss 0.2737 (0.3534)	Accuracy 89.844 (88.864)
+Epoch: [5][80/96]	Loss 0.5212 (0.3554)	Accuracy 84.375 (88.870)
+Epoch: [5][90/96]	Loss 0.2656 (0.3488)	Accuracy 90.625 (88.959)
+ * training  Accuracy 89.002
+Test: [ 0/24]	Loss 0.4848 (0.4848)	Accuracy 84.375 (84.375)
+Test: [10/24]	Loss 0.5907 (0.5443)	Accuracy 82.812 (82.457)
+Test: [20/24]	Loss 0.6311 (0.5715)	Accuracy 82.031 (82.031)
+ * vail Accuracy 81.788
+Current best accuracy: 84.69152069091797
+72.37521266937256
+Current learning rate: 0.01
+Epoch: [6][ 0/96]	Loss 0.1797 (0.1797)	Accuracy 94.531 (94.531)
+Epoch: [6][10/96]	Loss 0.2071 (0.3224)	Accuracy 92.969 (90.199)
+Epoch: [6][20/96]	Loss 0.1426 (0.2992)	Accuracy 96.875 (90.811)
+Epoch: [6][30/96]	Loss 0.4378 (0.3010)	Accuracy 85.156 (90.675)
+Epoch: [6][40/96]	Loss 0.3132 (0.3049)	Accuracy 91.406 (90.492)
+Epoch: [6][50/96]	Loss 0.4155 (0.3017)	Accuracy 87.500 (90.640)
+Epoch: [6][60/96]	Loss 0.2895 (0.3025)	Accuracy 92.188 (90.651)
+Epoch: [6][70/96]	Loss 0.3898 (0.2984)	Accuracy 89.844 (90.801)
+Epoch: [6][80/96]	Loss 0.1938 (0.2974)	Accuracy 93.750 (90.799)
+Epoch: [6][90/96]	Loss 0.3550 (0.2958)	Accuracy 87.500 (90.805)
+ * training  Accuracy 90.801
+Test: [ 0/24]	Loss 0.5547 (0.5547)	Accuracy 84.375 (84.375)
+Test: [10/24]	Loss 0.4761 (0.5098)	Accuracy 85.938 (84.375)
+Test: [20/24]	Loss 0.4770 (0.5051)	Accuracy 84.375 (84.226)
+ * vail Accuracy 84.757
+Current best accuracy: 84.75749969482422
+72.71235346794128
+Current learning rate: 0.01
+Epoch: [7][ 0/96]	Loss 0.1435 (0.1435)	Accuracy 96.094 (96.094)
+Epoch: [7][10/96]	Loss 0.2680 (0.2501)	Accuracy 92.188 (92.898)
+Epoch: [7][20/96]	Loss 0.2435 (0.2376)	Accuracy 94.531 (93.564)
+Epoch: [7][30/96]	Loss 0.3220 (0.2431)	Accuracy 91.406 (93.170)
+Epoch: [7][40/96]	Loss 0.1909 (0.2383)	Accuracy 94.531 (93.159)
+Epoch: [7][50/96]	Loss 0.2364 (0.2375)	Accuracy 91.406 (92.984)
+Epoch: [7][60/96]	Loss 0.2422 (0.2399)	Accuracy 94.531 (92.905)
+Epoch: [7][70/96]	Loss 0.2258 (0.2435)	Accuracy 93.750 (92.727)
+Epoch: [7][80/96]	Loss 0.2005 (0.2461)	Accuracy 93.750 (92.670)
+Epoch: [7][90/96]	Loss 0.1870 (0.2461)	Accuracy 94.531 (92.634)
+ * training  Accuracy 92.509
+Test: [ 0/24]	Loss 0.5875 (0.5875)	Accuracy 79.688 (79.688)
+Test: [10/24]	Loss 0.3268 (0.4817)	Accuracy 85.938 (83.239)
+Test: [20/24]	Loss 0.7004 (0.5229)	Accuracy 75.781 (82.292)
+ * vail Accuracy 82.250
+Current best accuracy: 84.75749969482422
+72.65235543251038
+Current learning rate: 0.01
+Epoch: [8][ 0/96]	Loss 0.2600 (0.2600)	Accuracy 91.406 (91.406)
+Epoch: [8][10/96]	Loss 0.2748 (0.2630)	Accuracy 91.406 (91.761)
+Epoch: [8][20/96]	Loss 0.2047 (0.2683)	Accuracy 95.312 (91.481)
+Epoch: [8][30/96]	Loss 0.1981 (0.2605)	Accuracy 92.188 (91.608)
+Epoch: [8][40/96]	Loss 0.2594 (0.2482)	Accuracy 89.844 (92.130)
+Epoch: [8][50/96]	Loss 0.2338 (0.2376)	Accuracy 92.969 (92.570)
+Epoch: [8][60/96]	Loss 0.3027 (0.2362)	Accuracy 90.625 (92.572)
+Epoch: [8][70/96]	Loss 0.2485 (0.2333)	Accuracy 92.188 (92.738)
+Epoch: [8][80/96]	Loss 0.2293 (0.2329)	Accuracy 91.406 (92.776)
+Epoch: [8][90/96]	Loss 0.2368 (0.2320)	Accuracy 91.406 (92.866)
+ * training  Accuracy 92.854
+Test: [ 0/24]	Loss 0.2680 (0.2680)	Accuracy 88.281 (88.281)
+Test: [10/24]	Loss 0.4579 (0.4393)	Accuracy 89.062 (86.932)
+Test: [20/24]	Loss 0.4025 (0.4449)	Accuracy 85.156 (86.570)
+ * vail Accuracy 86.803
+Current best accuracy: 86.80303192138672
+72.92070245742798
+Current learning rate: 0.01
+Epoch: [9][ 0/96]	Loss 0.1067 (0.1067)	Accuracy 96.875 (96.875)
+Epoch: [9][10/96]	Loss 0.1609 (0.1706)	Accuracy 96.094 (94.957)
+Epoch: [9][20/96]	Loss 0.2196 (0.1770)	Accuracy 93.750 (94.829)
+Epoch: [9][30/96]	Loss 0.1714 (0.1739)	Accuracy 94.531 (94.808)
+Epoch: [9][40/96]	Loss 0.2080 (0.1772)	Accuracy 92.188 (94.722)
+Epoch: [9][50/96]	Loss 0.1893 (0.1749)	Accuracy 95.312 (94.792)
+Epoch: [9][60/96]	Loss 0.1517 (0.1734)	Accuracy 98.438 (94.928)
+Epoch: [9][70/96]	Loss 0.1284 (0.1770)	Accuracy 96.875 (94.861)
+Epoch: [9][80/96]	Loss 0.1529 (0.1764)	Accuracy 93.750 (94.956)
+Epoch: [9][90/96]	Loss 0.1528 (0.1816)	Accuracy 96.094 (94.763)
+ * training  Accuracy 94.710
+Test: [ 0/24]	Loss 0.4816 (0.4816)	Accuracy 88.281 (88.281)
+Test: [10/24]	Loss 0.6178 (0.4797)	Accuracy 82.031 (85.227)
+Test: [20/24]	Loss 0.3444 (0.4577)	Accuracy 88.281 (85.677)
+ * vail Accuracy 85.285
+Current best accuracy: 86.80303192138672
+72.51895356178284
+Current learning rate: 0.01
+Epoch: [10][ 0/96]	Loss 0.1626 (0.1626)	Accuracy 94.531 (94.531)
+Epoch: [10][10/96]	Loss 0.1276 (0.1385)	Accuracy 96.875 (96.378)
+Epoch: [10][20/96]	Loss 0.1684 (0.1617)	Accuracy 95.312 (95.647)
+Epoch: [10][30/96]	Loss 0.2785 (0.1591)	Accuracy 93.750 (95.716)
+Epoch: [10][40/96]	Loss 0.0759 (0.1620)	Accuracy 99.219 (95.598)
+Epoch: [10][50/96]	Loss 0.1259 (0.1685)	Accuracy 95.312 (95.297)
+Epoch: [10][60/96]	Loss 0.1512 (0.1700)	Accuracy 96.094 (95.248)
+Epoch: [10][70/96]	Loss 0.1750 (0.1694)	Accuracy 93.750 (95.235)
+Epoch: [10][80/96]	Loss 0.1740 (0.1700)	Accuracy 96.875 (95.245)
+Epoch: [10][90/96]	Loss 0.2004 (0.1691)	Accuracy 95.312 (95.235)
+ * training  Accuracy 95.236
+Test: [ 0/24]	Loss 0.4938 (0.4938)	Accuracy 87.500 (87.500)
+Test: [10/24]	Loss 0.4282 (0.5588)	Accuracy 85.156 (84.872)
+Test: [20/24]	Loss 0.8778 (0.5822)	Accuracy 79.688 (83.891)
+ * vail Accuracy 84.230
+Current best accuracy: 86.80303192138672
+73.27734923362732
+Current learning rate: 0.01
+Epoch: [11][ 0/96]	Loss 0.1080 (0.1080)	Accuracy 98.438 (98.438)
+Epoch: [11][10/96]	Loss 0.2471 (0.1562)	Accuracy 95.312 (96.023)
+Epoch: [11][20/96]	Loss 0.2378 (0.1620)	Accuracy 92.969 (95.722)
+Epoch: [11][30/96]	Loss 0.2018 (0.1687)	Accuracy 94.531 (95.413)
+Epoch: [11][40/96]	Loss 0.1460 (0.1685)	Accuracy 95.312 (95.389)
+Epoch: [11][50/96]	Loss 0.1616 (0.1698)	Accuracy 95.312 (95.282)
+Epoch: [11][60/96]	Loss 0.2240 (0.1709)	Accuracy 94.531 (95.248)
+Epoch: [11][70/96]	Loss 0.1394 (0.1678)	Accuracy 96.875 (95.346)
+Epoch: [11][80/96]	Loss 0.2220 (0.1677)	Accuracy 96.094 (95.341)
+Epoch: [11][90/96]	Loss 0.1217 (0.1656)	Accuracy 96.875 (95.441)
+ * training  Accuracy 95.368
+Test: [ 0/24]	Loss 0.7945 (0.7945)	Accuracy 82.031 (82.031)
+Test: [10/24]	Loss 0.5901 (0.5325)	Accuracy 83.594 (85.085)
+Test: [20/24]	Loss 0.4575 (0.5093)	Accuracy 88.281 (85.938)
+ * vail Accuracy 85.945
+Current best accuracy: 86.80303192138672
+72.14088273048401
+Current learning rate: 0.01
+Epoch: [12][ 0/96]	Loss 0.1586 (0.1586)	Accuracy 96.875 (96.875)
+Epoch: [12][10/96]	Loss 0.1141 (0.1742)	Accuracy 98.438 (95.526)
+Epoch: [12][20/96]	Loss 0.1381 (0.1672)	Accuracy 95.312 (95.573)
+Epoch: [12][30/96]	Loss 0.1690 (0.1632)	Accuracy 94.531 (95.590)
+Epoch: [12][40/96]	Loss 0.1198 (0.1498)	Accuracy 97.656 (96.132)
+Epoch: [12][50/96]	Loss 0.1192 (0.1469)	Accuracy 97.656 (96.109)
+Epoch: [12][60/96]	Loss 0.2144 (0.1480)	Accuracy 92.188 (95.966)
+Epoch: [12][70/96]	Loss 0.1798 (0.1501)	Accuracy 94.531 (95.841)
+Epoch: [12][80/96]	Loss 0.1707 (0.1521)	Accuracy 93.750 (95.747)
+Epoch: [12][90/96]	Loss 0.1032 (0.1534)	Accuracy 97.656 (95.664)
+ * training  Accuracy 95.721
+Test: [ 0/24]	Loss 0.4506 (0.4506)	Accuracy 89.062 (89.062)
+Test: [10/24]	Loss 0.5257 (0.4980)	Accuracy 85.938 (85.369)
+Test: [20/24]	Loss 0.3424 (0.5076)	Accuracy 86.719 (85.231)
+ * vail Accuracy 85.021
+Current best accuracy: 86.80303192138672
+71.80186462402344
+Current learning rate: 0.01
+Epoch: [13][ 0/96]	Loss 0.0751 (0.0751)	Accuracy 98.438 (98.438)
+Epoch: [13][10/96]	Loss 0.2020 (0.1301)	Accuracy 92.969 (96.449)
+Epoch: [13][20/96]	Loss 0.0933 (0.1301)	Accuracy 98.438 (96.615)
+Epoch: [13][30/96]	Loss 0.1539 (0.1233)	Accuracy 96.094 (96.825)
+Epoch: [13][40/96]	Loss 0.1427 (0.1223)	Accuracy 95.312 (96.932)
+Epoch: [13][50/96]	Loss 0.0992 (0.1216)	Accuracy 97.656 (97.013)
+Epoch: [13][60/96]	Loss 0.0681 (0.1230)	Accuracy 99.219 (96.977)
+Epoch: [13][70/96]	Loss 0.1080 (0.1252)	Accuracy 96.875 (96.831)
+Epoch: [13][80/96]	Loss 0.0696 (0.1283)	Accuracy 97.656 (96.721)
+Epoch: [13][90/96]	Loss 0.0978 (0.1303)	Accuracy 96.094 (96.617)
+ * training  Accuracy 96.600
+Test: [ 0/24]	Loss 0.4955 (0.4955)	Accuracy 83.594 (83.594)
+Test: [10/24]	Loss 0.5339 (0.4900)	Accuracy 88.281 (86.506)
+Test: [20/24]	Loss 0.3663 (0.4871)	Accuracy 89.844 (86.421)
+ * vail Accuracy 86.308
+Current best accuracy: 86.80303192138672
+71.7069878578186
+Current learning rate: 0.01
+Epoch: [14][ 0/96]	Loss 0.1108 (0.1108)	Accuracy 97.656 (97.656)
+Epoch: [14][10/96]	Loss 0.1705 (0.1232)	Accuracy 95.312 (96.946)
+Epoch: [14][20/96]	Loss 0.1391 (0.1293)	Accuracy 96.875 (96.503)
+Epoch: [14][30/96]	Loss 0.2288 (0.1225)	Accuracy 94.531 (96.699)
+Epoch: [14][40/96]	Loss 0.0950 (0.1200)	Accuracy 99.219 (96.856)
+Epoch: [14][50/96]	Loss 0.1710 (0.1233)	Accuracy 93.750 (96.783)
+Epoch: [14][60/96]	Loss 0.1136 (0.1257)	Accuracy 96.875 (96.721)
+Epoch: [14][70/96]	Loss 0.1788 (0.1263)	Accuracy 95.312 (96.655)
+Epoch: [14][80/96]	Loss 0.1160 (0.1282)	Accuracy 96.875 (96.595)
+Epoch: [14][90/96]	Loss 0.1206 (0.1282)	Accuracy 98.438 (96.583)
+ * training  Accuracy 96.583
+Test: [ 0/24]	Loss 0.3289 (0.3289)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.4500 (0.5233)	Accuracy 89.062 (86.932)
+Test: [20/24]	Loss 0.6414 (0.5519)	Accuracy 83.594 (85.826)
+ * vail Accuracy 85.384
+Current best accuracy: 86.80303192138672
+71.80574154853821
+Current learning rate: 0.01
+Epoch: [15][ 0/96]	Loss 0.1421 (0.1421)	Accuracy 98.438 (98.438)
+Epoch: [15][10/96]	Loss 0.1729 (0.2212)	Accuracy 96.094 (94.176)
+Epoch: [15][20/96]	Loss 0.2096 (0.2105)	Accuracy 94.531 (94.457)
+Epoch: [15][30/96]	Loss 0.1701 (0.1995)	Accuracy 95.312 (94.531)
+Epoch: [15][40/96]	Loss 0.0689 (0.1935)	Accuracy 98.438 (94.760)
+Epoch: [15][50/96]	Loss 0.1279 (0.1857)	Accuracy 97.656 (95.021)
+Epoch: [15][60/96]	Loss 0.1213 (0.1801)	Accuracy 96.875 (95.095)
+Epoch: [15][70/96]	Loss 0.1616 (0.1749)	Accuracy 94.531 (95.180)
+Epoch: [15][80/96]	Loss 0.1868 (0.1698)	Accuracy 92.188 (95.322)
+Epoch: [15][90/96]	Loss 0.2517 (0.1669)	Accuracy 90.625 (95.390)
+ * training  Accuracy 95.441
+Test: [ 0/24]	Loss 0.4186 (0.4186)	Accuracy 85.156 (85.156)
+Test: [10/24]	Loss 0.3673 (0.5402)	Accuracy 90.625 (85.582)
+Test: [20/24]	Loss 0.5557 (0.5379)	Accuracy 85.938 (85.454)
+ * vail Accuracy 85.318
+Current best accuracy: 86.80303192138672
+72.46822619438171
+Current learning rate: 0.01
+Epoch: [16][ 0/96]	Loss 0.0877 (0.0877)	Accuracy 98.438 (98.438)
+Epoch: [16][10/96]	Loss 0.0932 (0.1622)	Accuracy 97.656 (95.739)
+Epoch: [16][20/96]	Loss 0.1147 (0.1546)	Accuracy 96.094 (95.759)
+Epoch: [16][30/96]	Loss 0.1592 (0.1504)	Accuracy 94.531 (95.867)
+Epoch: [16][40/96]	Loss 0.1187 (0.1485)	Accuracy 94.531 (95.941)
+Epoch: [16][50/96]	Loss 0.1454 (0.1410)	Accuracy 96.094 (96.201)
+Epoch: [16][60/96]	Loss 0.1166 (0.1372)	Accuracy 96.875 (96.286)
+Epoch: [16][70/96]	Loss 0.0613 (0.1346)	Accuracy 99.219 (96.358)
+Epoch: [16][80/96]	Loss 0.1753 (0.1340)	Accuracy 94.531 (96.402)
+Epoch: [16][90/96]	Loss 0.1153 (0.1336)	Accuracy 97.656 (96.403)
+ * training  Accuracy 96.452
+Test: [ 0/24]	Loss 0.3025 (0.3025)	Accuracy 91.406 (91.406)
+Test: [10/24]	Loss 0.6317 (0.5198)	Accuracy 81.250 (85.653)
+Test: [20/24]	Loss 0.6090 (0.5187)	Accuracy 85.938 (86.086)
+ * vail Accuracy 85.846
+Current best accuracy: 86.80303192138672
+71.79115843772888
+Current learning rate: 0.01
+Epoch: [17][ 0/96]	Loss 0.1011 (0.1011)	Accuracy 96.875 (96.875)
+Epoch: [17][10/96]	Loss 0.0619 (0.1109)	Accuracy 98.438 (97.514)
+Epoch: [17][20/96]	Loss 0.1362 (0.1161)	Accuracy 96.875 (97.135)
+Epoch: [17][30/96]	Loss 0.0819 (0.1228)	Accuracy 97.656 (96.875)
+Epoch: [17][40/96]	Loss 0.1318 (0.1228)	Accuracy 96.094 (96.875)
+Epoch: [17][50/96]	Loss 0.1299 (0.1203)	Accuracy 96.875 (96.982)
+Epoch: [17][60/96]	Loss 0.1599 (0.1204)	Accuracy 95.312 (96.939)
+Epoch: [17][70/96]	Loss 0.1785 (0.1167)	Accuracy 94.531 (96.996)
+Epoch: [17][80/96]	Loss 0.1001 (0.1159)	Accuracy 97.656 (96.981)
+Epoch: [17][90/96]	Loss 0.0632 (0.1152)	Accuracy 98.438 (96.995)
+ * training  Accuracy 96.977
+Test: [ 0/24]	Loss 0.5896 (0.5896)	Accuracy 85.938 (85.938)
+Test: [10/24]	Loss 0.6081 (0.5901)	Accuracy 81.250 (82.741)
+Test: [20/24]	Loss 0.7645 (0.6412)	Accuracy 85.938 (82.999)
+ * vail Accuracy 83.009
+Current best accuracy: 86.80303192138672
+71.75309085845947
+Current learning rate: 0.01
+Epoch: [18][ 0/96]	Loss 0.0441 (0.0441)	Accuracy 99.219 (99.219)
+Epoch: [18][10/96]	Loss 0.1316 (0.1367)	Accuracy 96.094 (95.881)
+Epoch: [18][20/96]	Loss 0.1175 (0.1380)	Accuracy 95.312 (95.722)
+Epoch: [18][30/96]	Loss 0.1901 (0.1313)	Accuracy 96.094 (96.220)
+Epoch: [18][40/96]	Loss 0.1256 (0.1278)	Accuracy 95.312 (96.418)
+Epoch: [18][50/96]	Loss 0.1271 (0.1289)	Accuracy 96.094 (96.492)
+Epoch: [18][60/96]	Loss 0.1252 (0.1287)	Accuracy 95.312 (96.414)
+Epoch: [18][70/96]	Loss 0.0463 (0.1240)	Accuracy 99.219 (96.545)
+Epoch: [18][80/96]	Loss 0.0569 (0.1220)	Accuracy 98.438 (96.586)
+Epoch: [18][90/96]	Loss 0.0940 (0.1191)	Accuracy 96.875 (96.712)
+ * training  Accuracy 96.731
+Test: [ 0/24]	Loss 0.5567 (0.5567)	Accuracy 88.281 (88.281)
+Test: [10/24]	Loss 0.7254 (0.4863)	Accuracy 83.594 (87.145)
+Test: [20/24]	Loss 0.5828 (0.5231)	Accuracy 88.281 (86.533)
+ * vail Accuracy 86.638
+Current best accuracy: 86.80303192138672
+72.12660717964172
+Current learning rate: 0.01
+Epoch: [19][ 0/96]	Loss 0.0965 (0.0965)	Accuracy 97.656 (97.656)
+Epoch: [19][10/96]	Loss 0.0493 (0.0871)	Accuracy 99.219 (97.869)
+Epoch: [19][20/96]	Loss 0.1329 (0.0991)	Accuracy 95.312 (97.247)
+Epoch: [19][30/96]	Loss 0.1281 (0.0973)	Accuracy 96.875 (97.329)
+Epoch: [19][40/96]	Loss 0.0866 (0.0952)	Accuracy 98.438 (97.389)
+Epoch: [19][50/96]	Loss 0.0892 (0.0958)	Accuracy 96.875 (97.411)
+Epoch: [19][60/96]	Loss 0.1077 (0.0943)	Accuracy 97.656 (97.503)
+Epoch: [19][70/96]	Loss 0.0821 (0.0929)	Accuracy 97.656 (97.590)
+Epoch: [19][80/96]	Loss 0.0623 (0.0919)	Accuracy 97.656 (97.656)
+Epoch: [19][90/96]	Loss 0.1266 (0.0950)	Accuracy 96.094 (97.579)
+ * training  Accuracy 97.536
+Test: [ 0/24]	Loss 0.5380 (0.5380)	Accuracy 85.938 (85.938)
+Test: [10/24]	Loss 0.7056 (0.5246)	Accuracy 83.594 (85.938)
+Test: [20/24]	Loss 0.5405 (0.5256)	Accuracy 87.500 (86.310)
+ * vail Accuracy 85.978
+Current best accuracy: 86.80303192138672
+72.9174382686615
+Current learning rate: 0.001
+Epoch: [20][ 0/96]	Loss 0.0412 (0.0412)	Accuracy 99.219 (99.219)
+Epoch: [20][10/96]	Loss 0.0505 (0.0521)	Accuracy 100.000 (98.864)
+Epoch: [20][20/96]	Loss 0.0457 (0.0519)	Accuracy 97.656 (98.735)
+Epoch: [20][30/96]	Loss 0.0637 (0.0585)	Accuracy 98.438 (98.538)
+Epoch: [20][40/96]	Loss 0.0504 (0.0585)	Accuracy 99.219 (98.533)
+Epoch: [20][50/96]	Loss 0.0686 (0.0551)	Accuracy 98.438 (98.652)
+Epoch: [20][60/96]	Loss 0.0263 (0.0528)	Accuracy 99.219 (98.719)
+Epoch: [20][70/96]	Loss 0.0429 (0.0524)	Accuracy 99.219 (98.724)
+Epoch: [20][80/96]	Loss 0.0375 (0.0509)	Accuracy 99.219 (98.746)
+Epoch: [20][90/96]	Loss 0.0655 (0.0498)	Accuracy 98.438 (98.798)
+ * training  Accuracy 98.801
+Test: [ 0/24]	Loss 0.5523 (0.5523)	Accuracy 88.281 (88.281)
+Test: [10/24]	Loss 0.3697 (0.4887)	Accuracy 92.969 (87.500)
+Test: [20/24]	Loss 0.3401 (0.4428)	Accuracy 90.625 (88.467)
+ * vail Accuracy 88.255
+Current best accuracy: 88.25469970703125
+72.51711750030518
+Current learning rate: 0.001
+Epoch: [21][ 0/96]	Loss 0.0318 (0.0318)	Accuracy 99.219 (99.219)
+Epoch: [21][10/96]	Loss 0.0270 (0.0375)	Accuracy 100.000 (99.077)
+Epoch: [21][20/96]	Loss 0.0415 (0.0349)	Accuracy 98.438 (99.219)
+Epoch: [21][30/96]	Loss 0.0269 (0.0367)	Accuracy 99.219 (99.244)
+Epoch: [21][40/96]	Loss 0.0168 (0.0346)	Accuracy 100.000 (99.276)
+Epoch: [21][50/96]	Loss 0.0142 (0.0326)	Accuracy 100.000 (99.341)
+Epoch: [21][60/96]	Loss 0.0374 (0.0317)	Accuracy 98.438 (99.372)
+Epoch: [21][70/96]	Loss 0.0207 (0.0309)	Accuracy 100.000 (99.384)
+Epoch: [21][80/96]	Loss 0.0437 (0.0313)	Accuracy 98.438 (99.363)
+Epoch: [21][90/96]	Loss 0.0113 (0.0306)	Accuracy 100.000 (99.382)
+ * training  Accuracy 99.326
+Test: [ 0/24]	Loss 0.3878 (0.3878)	Accuracy 92.188 (92.188)
+Test: [10/24]	Loss 0.4006 (0.4407)	Accuracy 89.062 (89.560)
+Test: [20/24]	Loss 0.6484 (0.4421)	Accuracy 82.812 (88.504)
+ * vail Accuracy 88.486
+Current best accuracy: 88.48564910888672
+72.49408006668091
+Current learning rate: 0.001
+Epoch: [22][ 0/96]	Loss 0.0324 (0.0324)	Accuracy 99.219 (99.219)
+Epoch: [22][10/96]	Loss 0.0678 (0.0305)	Accuracy 98.438 (99.361)
+Epoch: [22][20/96]	Loss 0.0480 (0.0348)	Accuracy 99.219 (99.330)
+Epoch: [22][30/96]	Loss 0.0120 (0.0311)	Accuracy 100.000 (99.471)
+Epoch: [22][40/96]	Loss 0.0185 (0.0300)	Accuracy 100.000 (99.524)
+Epoch: [22][50/96]	Loss 0.0273 (0.0283)	Accuracy 99.219 (99.571)
+Epoch: [22][60/96]	Loss 0.0491 (0.0288)	Accuracy 98.438 (99.526)
+Epoch: [22][70/96]	Loss 0.0420 (0.0289)	Accuracy 98.438 (99.461)
+Epoch: [22][80/96]	Loss 0.0242 (0.0291)	Accuracy 100.000 (99.460)
+Epoch: [22][90/96]	Loss 0.0302 (0.0300)	Accuracy 100.000 (99.416)
+ * training  Accuracy 99.400
+Test: [ 0/24]	Loss 0.3569 (0.3569)	Accuracy 91.406 (91.406)
+Test: [10/24]	Loss 0.4302 (0.4345)	Accuracy 89.844 (88.849)
+Test: [20/24]	Loss 0.5033 (0.4339)	Accuracy 84.375 (88.504)
+ * vail Accuracy 88.420
+Current best accuracy: 88.48564910888672
+71.84162712097168
+Current learning rate: 0.001
+Epoch: [23][ 0/96]	Loss 0.0222 (0.0222)	Accuracy 99.219 (99.219)
+Epoch: [23][10/96]	Loss 0.0104 (0.0225)	Accuracy 100.000 (99.716)
+Epoch: [23][20/96]	Loss 0.0366 (0.0219)	Accuracy 99.219 (99.665)
+Epoch: [23][30/96]	Loss 0.0423 (0.0247)	Accuracy 99.219 (99.572)
+Epoch: [23][40/96]	Loss 0.0653 (0.0254)	Accuracy 98.438 (99.562)
+Epoch: [23][50/96]	Loss 0.0090 (0.0262)	Accuracy 100.000 (99.540)
+Epoch: [23][60/96]	Loss 0.0287 (0.0260)	Accuracy 99.219 (99.552)
+Epoch: [23][70/96]	Loss 0.0182 (0.0255)	Accuracy 100.000 (99.582)
+Epoch: [23][80/96]	Loss 0.0587 (0.0248)	Accuracy 98.438 (99.595)
+Epoch: [23][90/96]	Loss 0.0545 (0.0256)	Accuracy 99.219 (99.554)
+ * training  Accuracy 99.507
+Test: [ 0/24]	Loss 0.5157 (0.5157)	Accuracy 89.062 (89.062)
+Test: [10/24]	Loss 0.5142 (0.4016)	Accuracy 86.719 (88.991)
+Test: [20/24]	Loss 0.5869 (0.4421)	Accuracy 85.156 (88.579)
+ * vail Accuracy 88.387
+Current best accuracy: 88.48564910888672
+72.07683062553406
+Current learning rate: 0.001
+Epoch: [24][ 0/96]	Loss 0.0311 (0.0311)	Accuracy 99.219 (99.219)
+Epoch: [24][10/96]	Loss 0.0448 (0.0249)	Accuracy 98.438 (99.290)
+Epoch: [24][20/96]	Loss 0.0135 (0.0256)	Accuracy 100.000 (99.368)
+Epoch: [24][30/96]	Loss 0.0319 (0.0295)	Accuracy 99.219 (99.244)
+Epoch: [24][40/96]	Loss 0.0208 (0.0307)	Accuracy 100.000 (99.276)
+Epoch: [24][50/96]	Loss 0.0158 (0.0311)	Accuracy 100.000 (99.219)
+Epoch: [24][60/96]	Loss 0.0321 (0.0307)	Accuracy 99.219 (99.283)
+Epoch: [24][70/96]	Loss 0.0616 (0.0298)	Accuracy 98.438 (99.329)
+Epoch: [24][80/96]	Loss 0.0208 (0.0286)	Accuracy 100.000 (99.373)
+Epoch: [24][90/96]	Loss 0.0349 (0.0281)	Accuracy 99.219 (99.382)
+ * training  Accuracy 99.376
+Test: [ 0/24]	Loss 0.2403 (0.2403)	Accuracy 91.406 (91.406)
+Test: [10/24]	Loss 0.3726 (0.4092)	Accuracy 89.844 (89.347)
+Test: [20/24]	Loss 0.5201 (0.4458)	Accuracy 88.281 (88.653)
+ * vail Accuracy 88.915
+Current best accuracy: 88.91454315185547
+72.52053356170654
+Current learning rate: 0.001
+Epoch: [25][ 0/96]	Loss 0.0156 (0.0156)	Accuracy 100.000 (100.000)
+Epoch: [25][10/96]	Loss 0.0418 (0.0261)	Accuracy 100.000 (99.716)
+Epoch: [25][20/96]	Loss 0.0174 (0.0242)	Accuracy 100.000 (99.628)
+Epoch: [25][30/96]	Loss 0.0275 (0.0254)	Accuracy 99.219 (99.572)
+Epoch: [25][40/96]	Loss 0.0343 (0.0257)	Accuracy 100.000 (99.543)
+Epoch: [25][50/96]	Loss 0.0135 (0.0250)	Accuracy 100.000 (99.586)
+Epoch: [25][60/96]	Loss 0.0102 (0.0252)	Accuracy 100.000 (99.577)
+Epoch: [25][70/96]	Loss 0.0107 (0.0246)	Accuracy 100.000 (99.626)
+Epoch: [25][80/96]	Loss 0.0118 (0.0244)	Accuracy 100.000 (99.624)
+Epoch: [25][90/96]	Loss 0.0259 (0.0251)	Accuracy 99.219 (99.562)
+ * training  Accuracy 99.565
+Test: [ 0/24]	Loss 0.5160 (0.5160)	Accuracy 84.375 (84.375)
+Test: [10/24]	Loss 0.3417 (0.5193)	Accuracy 89.062 (87.358)
+Test: [20/24]	Loss 0.2443 (0.4816)	Accuracy 91.406 (88.207)
+ * vail Accuracy 88.354
+Current best accuracy: 88.91454315185547
+71.90507936477661
+Current learning rate: 0.001
+Epoch: [26][ 0/96]	Loss 0.0261 (0.0261)	Accuracy 98.438 (98.438)
+Epoch: [26][10/96]	Loss 0.0183 (0.0218)	Accuracy 100.000 (99.503)
+Epoch: [26][20/96]	Loss 0.0321 (0.0218)	Accuracy 99.219 (99.442)
+Epoch: [26][30/96]	Loss 0.0428 (0.0215)	Accuracy 99.219 (99.471)
+Epoch: [26][40/96]	Loss 0.0424 (0.0220)	Accuracy 99.219 (99.524)
+Epoch: [26][50/96]	Loss 0.0273 (0.0216)	Accuracy 99.219 (99.540)
+Epoch: [26][60/96]	Loss 0.0180 (0.0219)	Accuracy 99.219 (99.526)
+Epoch: [26][70/96]	Loss 0.0192 (0.0221)	Accuracy 99.219 (99.527)
+Epoch: [26][80/96]	Loss 0.0104 (0.0218)	Accuracy 100.000 (99.537)
+Epoch: [26][90/96]	Loss 0.0186 (0.0218)	Accuracy 100.000 (99.536)
+ * training  Accuracy 99.540
+Test: [ 0/24]	Loss 0.4518 (0.4518)	Accuracy 89.062 (89.062)
+Test: [10/24]	Loss 0.3703 (0.4535)	Accuracy 90.625 (88.281)
+Test: [20/24]	Loss 0.6179 (0.4501)	Accuracy 88.281 (88.914)
+ * vail Accuracy 88.783
+Current best accuracy: 88.91454315185547
+72.12351322174072
+Current learning rate: 0.001
+Epoch: [27][ 0/96]	Loss 0.0051 (0.0051)	Accuracy 100.000 (100.000)
+Epoch: [27][10/96]	Loss 0.0144 (0.0187)	Accuracy 100.000 (99.645)
+Epoch: [27][20/96]	Loss 0.0240 (0.0221)	Accuracy 100.000 (99.516)
+Epoch: [27][30/96]	Loss 0.0215 (0.0213)	Accuracy 100.000 (99.572)
+Epoch: [27][40/96]	Loss 0.0160 (0.0194)	Accuracy 100.000 (99.676)
+Epoch: [27][50/96]	Loss 0.0098 (0.0195)	Accuracy 100.000 (99.663)
+Epoch: [27][60/96]	Loss 0.0127 (0.0192)	Accuracy 100.000 (99.680)
+Epoch: [27][70/96]	Loss 0.0136 (0.0196)	Accuracy 100.000 (99.681)
+Epoch: [27][80/96]	Loss 0.0091 (0.0195)	Accuracy 100.000 (99.691)
+Epoch: [27][90/96]	Loss 0.0106 (0.0195)	Accuracy 100.000 (99.674)
+ * training  Accuracy 99.663
+Test: [ 0/24]	Loss 0.4022 (0.4022)	Accuracy 91.406 (91.406)
+Test: [10/24]	Loss 0.4443 (0.4337)	Accuracy 88.281 (89.347)
+Test: [20/24]	Loss 0.5316 (0.4635)	Accuracy 84.375 (88.467)
+ * vail Accuracy 88.552
+Current best accuracy: 88.91454315185547
+72.98919439315796
+Current learning rate: 0.001
+Epoch: [28][ 0/96]	Loss 0.0162 (0.0162)	Accuracy 100.000 (100.000)
+Epoch: [28][10/96]	Loss 0.0133 (0.0173)	Accuracy 100.000 (99.716)
+Epoch: [28][20/96]	Loss 0.0101 (0.0164)	Accuracy 100.000 (99.665)
+Epoch: [28][30/96]	Loss 0.0093 (0.0166)	Accuracy 100.000 (99.698)
+Epoch: [28][40/96]	Loss 0.0053 (0.0169)	Accuracy 100.000 (99.657)
+Epoch: [28][50/96]	Loss 0.0155 (0.0172)	Accuracy 100.000 (99.648)
+Epoch: [28][60/96]	Loss 0.0195 (0.0171)	Accuracy 100.000 (99.680)
+Epoch: [28][70/96]	Loss 0.0179 (0.0179)	Accuracy 100.000 (99.681)
+Epoch: [28][80/96]	Loss 0.0154 (0.0184)	Accuracy 100.000 (99.682)
+Epoch: [28][90/96]	Loss 0.0129 (0.0190)	Accuracy 99.219 (99.657)
+ * training  Accuracy 99.655
+Test: [ 0/24]	Loss 0.4465 (0.4465)	Accuracy 89.844 (89.844)
+Test: [10/24]	Loss 0.6369 (0.4782)	Accuracy 86.719 (87.997)
+Test: [20/24]	Loss 0.4865 (0.4425)	Accuracy 89.062 (89.025)
+ * vail Accuracy 88.783
+Current best accuracy: 88.91454315185547
+71.9940915107727
+Current learning rate: 0.001
+Epoch: [29][ 0/96]	Loss 0.0368 (0.0368)	Accuracy 99.219 (99.219)
+Epoch: [29][10/96]	Loss 0.0264 (0.0218)	Accuracy 100.000 (99.716)
+Epoch: [29][20/96]	Loss 0.0288 (0.0202)	Accuracy 100.000 (99.740)
+Epoch: [29][30/96]	Loss 0.0104 (0.0189)	Accuracy 100.000 (99.798)
+Epoch: [29][40/96]	Loss 0.0156 (0.0193)	Accuracy 100.000 (99.714)
+Epoch: [29][50/96]	Loss 0.0138 (0.0190)	Accuracy 100.000 (99.724)
+Epoch: [29][60/96]	Loss 0.0212 (0.0183)	Accuracy 99.219 (99.718)
+Epoch: [29][70/96]	Loss 0.0477 (0.0187)	Accuracy 99.219 (99.703)
+Epoch: [29][80/96]	Loss 0.0088 (0.0185)	Accuracy 100.000 (99.691)
+Epoch: [29][90/96]	Loss 0.0219 (0.0182)	Accuracy 99.219 (99.708)
+ * training  Accuracy 99.688
+Test: [ 0/24]	Loss 0.6082 (0.6082)	Accuracy 85.156 (85.156)
+Test: [10/24]	Loss 0.5182 (0.5240)	Accuracy 85.938 (87.713)
+Test: [20/24]	Loss 0.1497 (0.4706)	Accuracy 93.750 (88.281)
+ * vail Accuracy 88.321
+Current best accuracy: 88.91454315185547
+72.04886722564697
+Current learning rate: 0.001
+Epoch: [30][ 0/96]	Loss 0.0228 (0.0228)	Accuracy 99.219 (99.219)
+Epoch: [30][10/96]	Loss 0.0153 (0.0180)	Accuracy 99.219 (99.503)
+Epoch: [30][20/96]	Loss 0.0076 (0.0183)	Accuracy 100.000 (99.516)
+Epoch: [30][30/96]	Loss 0.0588 (0.0201)	Accuracy 98.438 (99.471)
+Epoch: [30][40/96]	Loss 0.0079 (0.0191)	Accuracy 100.000 (99.524)
+Epoch: [30][50/96]	Loss 0.0068 (0.0177)	Accuracy 100.000 (99.571)
+Epoch: [30][60/96]	Loss 0.0125 (0.0173)	Accuracy 100.000 (99.603)
+Epoch: [30][70/96]	Loss 0.0250 (0.0177)	Accuracy 99.219 (99.615)
+Epoch: [30][80/96]	Loss 0.0171 (0.0171)	Accuracy 100.000 (99.662)
+Epoch: [30][90/96]	Loss 0.0064 (0.0169)	Accuracy 100.000 (99.674)
+ * training  Accuracy 99.671
+Test: [ 0/24]	Loss 0.6292 (0.6292)	Accuracy 83.594 (83.594)
+Test: [10/24]	Loss 0.2884 (0.4849)	Accuracy 92.188 (87.642)
+Test: [20/24]	Loss 0.4642 (0.4894)	Accuracy 88.281 (87.798)
+ * vail Accuracy 87.892
+Current best accuracy: 88.91454315185547
+72.17358756065369
+Current learning rate: 0.001
+Epoch: [31][ 0/96]	Loss 0.0070 (0.0070)	Accuracy 100.000 (100.000)
+Epoch: [31][10/96]	Loss 0.0081 (0.0155)	Accuracy 100.000 (99.787)
+Epoch: [31][20/96]	Loss 0.0252 (0.0133)	Accuracy 100.000 (99.888)
+Epoch: [31][30/96]	Loss 0.0891 (0.0160)	Accuracy 96.875 (99.723)
+Epoch: [31][40/96]	Loss 0.0237 (0.0163)	Accuracy 100.000 (99.771)
+Epoch: [31][50/96]	Loss 0.0071 (0.0161)	Accuracy 100.000 (99.724)
+Epoch: [31][60/96]	Loss 0.0107 (0.0160)	Accuracy 100.000 (99.718)
+Epoch: [31][70/96]	Loss 0.0088 (0.0156)	Accuracy 100.000 (99.747)
+Epoch: [31][80/96]	Loss 0.0110 (0.0158)	Accuracy 100.000 (99.740)
+Epoch: [31][90/96]	Loss 0.0287 (0.0155)	Accuracy 99.219 (99.742)
+ * training  Accuracy 99.737
+Test: [ 0/24]	Loss 0.2355 (0.2355)	Accuracy 94.531 (94.531)
+Test: [10/24]	Loss 0.4476 (0.4670)	Accuracy 89.062 (89.347)
+Test: [20/24]	Loss 0.5384 (0.4746)	Accuracy 89.062 (88.244)
+ * vail Accuracy 88.321
+Current best accuracy: 88.91454315185547
+72.13038277626038
+Current learning rate: 0.001
+Epoch: [32][ 0/96]	Loss 0.0040 (0.0040)	Accuracy 100.000 (100.000)
+Epoch: [32][10/96]	Loss 0.0170 (0.0166)	Accuracy 100.000 (99.858)
+Epoch: [32][20/96]	Loss 0.0172 (0.0151)	Accuracy 100.000 (99.851)
+Epoch: [32][30/96]	Loss 0.0097 (0.0147)	Accuracy 100.000 (99.824)
+Epoch: [32][40/96]	Loss 0.0033 (0.0147)	Accuracy 100.000 (99.809)
+Epoch: [32][50/96]	Loss 0.0203 (0.0149)	Accuracy 100.000 (99.786)
+Epoch: [32][60/96]	Loss 0.0160 (0.0148)	Accuracy 99.219 (99.795)
+Epoch: [32][70/96]	Loss 0.0169 (0.0159)	Accuracy 99.219 (99.758)
+Epoch: [32][80/96]	Loss 0.0179 (0.0160)	Accuracy 99.219 (99.730)
+Epoch: [32][90/96]	Loss 0.0085 (0.0157)	Accuracy 100.000 (99.734)
+ * training  Accuracy 99.737
+Test: [ 0/24]	Loss 0.3537 (0.3537)	Accuracy 92.188 (92.188)
+Test: [10/24]	Loss 0.5060 (0.4536)	Accuracy 87.500 (89.347)
+Test: [20/24]	Loss 0.3295 (0.4686)	Accuracy 91.406 (88.765)
+ * vail Accuracy 88.750
+Current best accuracy: 88.91454315185547
+71.97442626953125
+Current learning rate: 0.001
+Epoch: [33][ 0/96]	Loss 0.0154 (0.0154)	Accuracy 100.000 (100.000)
+Epoch: [33][10/96]	Loss 0.0061 (0.0131)	Accuracy 100.000 (99.787)
+Epoch: [33][20/96]	Loss 0.0104 (0.0129)	Accuracy 100.000 (99.814)
+Epoch: [33][30/96]	Loss 0.0178 (0.0127)	Accuracy 100.000 (99.824)
+Epoch: [33][40/96]	Loss 0.0613 (0.0138)	Accuracy 97.656 (99.771)
+Epoch: [33][50/96]	Loss 0.0028 (0.0146)	Accuracy 100.000 (99.755)
+Epoch: [33][60/96]	Loss 0.0052 (0.0145)	Accuracy 100.000 (99.769)
+Epoch: [33][70/96]	Loss 0.0179 (0.0145)	Accuracy 99.219 (99.780)
+Epoch: [33][80/96]	Loss 0.0075 (0.0145)	Accuracy 100.000 (99.778)
+Epoch: [33][90/96]	Loss 0.0125 (0.0147)	Accuracy 100.000 (99.777)
+ * training  Accuracy 99.778
+Test: [ 0/24]	Loss 0.6180 (0.6180)	Accuracy 85.938 (85.938)
+Test: [10/24]	Loss 0.4342 (0.4734)	Accuracy 87.500 (87.855)
+Test: [20/24]	Loss 0.5214 (0.5157)	Accuracy 87.500 (87.686)
+ * vail Accuracy 88.123
+Current best accuracy: 88.91454315185547
+72.05294299125671
+Current learning rate: 0.001
+Epoch: [34][ 0/96]	Loss 0.0063 (0.0063)	Accuracy 100.000 (100.000)
+Epoch: [34][10/96]	Loss 0.0210 (0.0109)	Accuracy 99.219 (99.858)
+Epoch: [34][20/96]	Loss 0.0116 (0.0130)	Accuracy 100.000 (99.814)
+Epoch: [34][30/96]	Loss 0.0067 (0.0148)	Accuracy 100.000 (99.773)
+Epoch: [34][40/96]	Loss 0.0107 (0.0161)	Accuracy 100.000 (99.771)
+Epoch: [34][50/96]	Loss 0.0459 (0.0164)	Accuracy 99.219 (99.755)
+Epoch: [34][60/96]	Loss 0.0085 (0.0158)	Accuracy 100.000 (99.757)
+Epoch: [34][70/96]	Loss 0.0041 (0.0150)	Accuracy 100.000 (99.791)
+Epoch: [34][80/96]	Loss 0.0044 (0.0151)	Accuracy 100.000 (99.749)
+Epoch: [34][90/96]	Loss 0.0260 (0.0148)	Accuracy 99.219 (99.768)
+ * training  Accuracy 99.778
+Test: [ 0/24]	Loss 0.2880 (0.2880)	Accuracy 95.312 (95.312)
+Test: [10/24]	Loss 0.4690 (0.4672)	Accuracy 89.844 (89.276)
+Test: [20/24]	Loss 0.6955 (0.4980)	Accuracy 89.844 (88.765)
+ * vail Accuracy 88.783
+Current best accuracy: 88.91454315185547
+71.59256482124329
+Current learning rate: 0.001
+Epoch: [35][ 0/96]	Loss 0.0228 (0.0228)	Accuracy 99.219 (99.219)
+Epoch: [35][10/96]	Loss 0.0303 (0.0192)	Accuracy 99.219 (99.432)
+Epoch: [35][20/96]	Loss 0.0217 (0.0163)	Accuracy 99.219 (99.628)
+Epoch: [35][30/96]	Loss 0.0088 (0.0144)	Accuracy 100.000 (99.698)
+Epoch: [35][40/96]	Loss 0.0066 (0.0130)	Accuracy 100.000 (99.752)
+Epoch: [35][50/96]	Loss 0.0093 (0.0141)	Accuracy 100.000 (99.724)
+Epoch: [35][60/96]	Loss 0.0023 (0.0141)	Accuracy 100.000 (99.731)
+Epoch: [35][70/96]	Loss 0.0063 (0.0141)	Accuracy 100.000 (99.747)
+Epoch: [35][80/96]	Loss 0.0203 (0.0147)	Accuracy 99.219 (99.720)
+Epoch: [35][90/96]	Loss 0.0034 (0.0140)	Accuracy 100.000 (99.751)
+ * training  Accuracy 99.729
+Test: [ 0/24]	Loss 0.6690 (0.6690)	Accuracy 85.938 (85.938)
+Test: [10/24]	Loss 0.6083 (0.5074)	Accuracy 87.500 (87.713)
+Test: [20/24]	Loss 0.5309 (0.5057)	Accuracy 89.062 (87.835)
+ * vail Accuracy 88.123
+Current best accuracy: 88.91454315185547
+73.29712224006653
+Current learning rate: 0.001
+Epoch: [36][ 0/96]	Loss 0.0040 (0.0040)	Accuracy 100.000 (100.000)
+Epoch: [36][10/96]	Loss 0.0206 (0.0117)	Accuracy 99.219 (99.716)
+Epoch: [36][20/96]	Loss 0.0031 (0.0109)	Accuracy 100.000 (99.851)
+Epoch: [36][30/96]	Loss 0.0058 (0.0110)	Accuracy 100.000 (99.874)
+Epoch: [36][40/96]	Loss 0.0409 (0.0128)	Accuracy 97.656 (99.771)
+Epoch: [36][50/96]	Loss 0.0054 (0.0132)	Accuracy 100.000 (99.740)
+Epoch: [36][60/96]	Loss 0.0126 (0.0126)	Accuracy 99.219 (99.769)
+Epoch: [36][70/96]	Loss 0.0098 (0.0125)	Accuracy 100.000 (99.780)
+Epoch: [36][80/96]	Loss 0.0047 (0.0131)	Accuracy 100.000 (99.778)
+Epoch: [36][90/96]	Loss 0.0099 (0.0134)	Accuracy 100.000 (99.760)
+ * training  Accuracy 99.754
+Test: [ 0/24]	Loss 0.3909 (0.3909)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.3567 (0.5109)	Accuracy 89.062 (88.565)
+Test: [20/24]	Loss 0.5052 (0.5022)	Accuracy 88.281 (88.244)
+ * vail Accuracy 88.321
+Current best accuracy: 88.91454315185547
+71.99550461769104
+Current learning rate: 0.001
+Epoch: [37][ 0/96]	Loss 0.0040 (0.0040)	Accuracy 100.000 (100.000)
+Epoch: [37][10/96]	Loss 0.0060 (0.0187)	Accuracy 100.000 (99.645)
+Epoch: [37][20/96]	Loss 0.0064 (0.0136)	Accuracy 100.000 (99.777)
+Epoch: [37][30/96]	Loss 0.0077 (0.0155)	Accuracy 100.000 (99.723)
+Epoch: [37][40/96]	Loss 0.0168 (0.0148)	Accuracy 100.000 (99.752)
+Epoch: [37][50/96]	Loss 0.0054 (0.0143)	Accuracy 100.000 (99.755)
+Epoch: [37][60/96]	Loss 0.0022 (0.0144)	Accuracy 100.000 (99.769)
+Epoch: [37][70/96]	Loss 0.0055 (0.0138)	Accuracy 100.000 (99.791)
+Epoch: [37][80/96]	Loss 0.0096 (0.0135)	Accuracy 100.000 (99.797)
+Epoch: [37][90/96]	Loss 0.0045 (0.0134)	Accuracy 100.000 (99.803)
+ * training  Accuracy 99.811
+Test: [ 0/24]	Loss 0.7316 (0.7316)	Accuracy 85.156 (85.156)
+Test: [10/24]	Loss 0.4546 (0.4820)	Accuracy 92.188 (88.778)
+Test: [20/24]	Loss 0.2673 (0.4985)	Accuracy 89.062 (88.430)
+ * vail Accuracy 88.222
+Current best accuracy: 88.91454315185547
+71.94254541397095
+Current learning rate: 0.001
+Epoch: [38][ 0/96]	Loss 0.0115 (0.0115)	Accuracy 100.000 (100.000)
+Epoch: [38][10/96]	Loss 0.0106 (0.0094)	Accuracy 100.000 (100.000)
+Epoch: [38][20/96]	Loss 0.0044 (0.0101)	Accuracy 100.000 (99.963)
+Epoch: [38][30/96]	Loss 0.0227 (0.0121)	Accuracy 99.219 (99.899)
+Epoch: [38][40/96]	Loss 0.0105 (0.0119)	Accuracy 100.000 (99.924)
+Epoch: [38][50/96]	Loss 0.0075 (0.0112)	Accuracy 100.000 (99.939)
+Epoch: [38][60/96]	Loss 0.0098 (0.0117)	Accuracy 100.000 (99.910)
+Epoch: [38][70/96]	Loss 0.0190 (0.0117)	Accuracy 99.219 (99.890)
+Epoch: [38][80/96]	Loss 0.0089 (0.0115)	Accuracy 100.000 (99.884)
+Epoch: [38][90/96]	Loss 0.0398 (0.0123)	Accuracy 100.000 (99.863)
+ * training  Accuracy 99.852
+Test: [ 0/24]	Loss 0.4284 (0.4284)	Accuracy 85.156 (85.156)
+Test: [10/24]	Loss 0.3556 (0.5197)	Accuracy 89.844 (87.429)
+Test: [20/24]	Loss 0.5099 (0.4706)	Accuracy 85.938 (88.393)
+ * vail Accuracy 88.387
+Current best accuracy: 88.91454315185547
+71.87201571464539
+Current learning rate: 0.001
+Epoch: [39][ 0/96]	Loss 0.0053 (0.0053)	Accuracy 100.000 (100.000)
+Epoch: [39][10/96]	Loss 0.0038 (0.0087)	Accuracy 100.000 (99.858)
+Epoch: [39][20/96]	Loss 0.0168 (0.0101)	Accuracy 100.000 (99.851)
+Epoch: [39][30/96]	Loss 0.0110 (0.0102)	Accuracy 100.000 (99.899)
+Epoch: [39][40/96]	Loss 0.0033 (0.0097)	Accuracy 100.000 (99.924)
+Epoch: [39][50/96]	Loss 0.0363 (0.0103)	Accuracy 99.219 (99.908)
+Epoch: [39][60/96]	Loss 0.0117 (0.0101)	Accuracy 100.000 (99.910)
+Epoch: [39][70/96]	Loss 0.0159 (0.0104)	Accuracy 99.219 (99.901)
+Epoch: [39][80/96]	Loss 0.0107 (0.0100)	Accuracy 100.000 (99.913)
+Epoch: [39][90/96]	Loss 0.0069 (0.0103)	Accuracy 100.000 (99.906)
+ * training  Accuracy 99.893
+Test: [ 0/24]	Loss 0.7552 (0.7552)	Accuracy 82.031 (82.031)
+Test: [10/24]	Loss 0.3267 (0.5095)	Accuracy 92.188 (88.423)
+Test: [20/24]	Loss 0.4271 (0.4899)	Accuracy 89.062 (88.467)
+ * vail Accuracy 88.618
+Current best accuracy: 88.91454315185547
+72.33767914772034
+Current learning rate: 0.0001
+Epoch: [40][ 0/96]	Loss 0.0105 (0.0105)	Accuracy 100.000 (100.000)
+Epoch: [40][10/96]	Loss 0.0087 (0.0098)	Accuracy 100.000 (99.929)
+Epoch: [40][20/96]	Loss 0.0141 (0.0090)	Accuracy 100.000 (99.963)
+Epoch: [40][30/96]	Loss 0.0075 (0.0088)	Accuracy 100.000 (99.924)
+Epoch: [40][40/96]	Loss 0.0102 (0.0094)	Accuracy 100.000 (99.905)
+Epoch: [40][50/96]	Loss 0.0278 (0.0107)	Accuracy 98.438 (99.831)
+Epoch: [40][60/96]	Loss 0.0154 (0.0108)	Accuracy 100.000 (99.833)
+Epoch: [40][70/96]	Loss 0.0164 (0.0115)	Accuracy 99.219 (99.813)
+Epoch: [40][80/96]	Loss 0.0083 (0.0109)	Accuracy 100.000 (99.836)
+Epoch: [40][90/96]	Loss 0.0093 (0.0108)	Accuracy 99.219 (99.837)
+ * training  Accuracy 99.836
+Test: [ 0/24]	Loss 0.5103 (0.5103)	Accuracy 85.938 (85.938)
+Test: [10/24]	Loss 0.3766 (0.4808)	Accuracy 85.938 (88.778)
+Test: [20/24]	Loss 0.4420 (0.4798)	Accuracy 86.719 (88.951)
+ * vail Accuracy 88.915
+Current best accuracy: 88.91454315185547
+71.91972255706787
+Current learning rate: 0.0001
+Epoch: [41][ 0/96]	Loss 0.0077 (0.0077)	Accuracy 100.000 (100.000)
+Epoch: [41][10/96]	Loss 0.0029 (0.0076)	Accuracy 100.000 (100.000)
+Epoch: [41][20/96]	Loss 0.0062 (0.0104)	Accuracy 100.000 (99.888)
+Epoch: [41][30/96]	Loss 0.0098 (0.0105)	Accuracy 100.000 (99.899)
+Epoch: [41][40/96]	Loss 0.0070 (0.0113)	Accuracy 100.000 (99.848)
+Epoch: [41][50/96]	Loss 0.0040 (0.0107)	Accuracy 100.000 (99.877)
+Epoch: [41][60/96]	Loss 0.0221 (0.0113)	Accuracy 99.219 (99.846)
+Epoch: [41][70/96]	Loss 0.0049 (0.0107)	Accuracy 100.000 (99.868)
+Epoch: [41][80/96]	Loss 0.0200 (0.0107)	Accuracy 100.000 (99.875)
+Epoch: [41][90/96]	Loss 0.0114 (0.0105)	Accuracy 100.000 (99.880)
+ * training  Accuracy 99.877
+Test: [ 0/24]	Loss 0.7488 (0.7488)	Accuracy 83.594 (83.594)
+Test: [10/24]	Loss 0.6101 (0.4785)	Accuracy 85.156 (88.565)
+Test: [20/24]	Loss 0.6272 (0.4935)	Accuracy 88.281 (88.914)
+ * vail Accuracy 88.948
+Current best accuracy: 88.94754028320312
+72.29941153526306
+Current learning rate: 0.0001
+Epoch: [42][ 0/96]	Loss 0.0218 (0.0218)	Accuracy 99.219 (99.219)
+Epoch: [42][10/96]	Loss 0.0108 (0.0130)	Accuracy 100.000 (99.787)
+Epoch: [42][20/96]	Loss 0.0070 (0.0117)	Accuracy 100.000 (99.814)
+Epoch: [42][30/96]	Loss 0.0034 (0.0114)	Accuracy 100.000 (99.849)
+Epoch: [42][40/96]	Loss 0.0235 (0.0114)	Accuracy 99.219 (99.848)
+Epoch: [42][50/96]	Loss 0.0100 (0.0115)	Accuracy 100.000 (99.862)
+Epoch: [42][60/96]	Loss 0.0098 (0.0117)	Accuracy 100.000 (99.846)
+Epoch: [42][70/96]	Loss 0.0245 (0.0117)	Accuracy 99.219 (99.846)
+Epoch: [42][80/96]	Loss 0.0039 (0.0114)	Accuracy 100.000 (99.855)
+Epoch: [42][90/96]	Loss 0.0057 (0.0109)	Accuracy 100.000 (99.863)
+ * training  Accuracy 99.836
+Test: [ 0/24]	Loss 0.6182 (0.6182)	Accuracy 88.281 (88.281)
+Test: [10/24]	Loss 0.3711 (0.5298)	Accuracy 90.625 (87.784)
+Test: [20/24]	Loss 0.3978 (0.5109)	Accuracy 89.844 (88.393)
+ * vail Accuracy 88.783
+Current best accuracy: 88.94754028320312
+71.80881357192993
+Current learning rate: 0.0001
+Epoch: [43][ 0/96]	Loss 0.0037 (0.0037)	Accuracy 100.000 (100.000)
+Epoch: [43][10/96]	Loss 0.0092 (0.0116)	Accuracy 100.000 (99.716)
+Epoch: [43][20/96]	Loss 0.0017 (0.0113)	Accuracy 100.000 (99.740)
+Epoch: [43][30/96]	Loss 0.0043 (0.0106)	Accuracy 100.000 (99.773)
+Epoch: [43][40/96]	Loss 0.0047 (0.0099)	Accuracy 100.000 (99.809)
+Epoch: [43][50/96]	Loss 0.0196 (0.0097)	Accuracy 99.219 (99.816)
+Epoch: [43][60/96]	Loss 0.0058 (0.0107)	Accuracy 100.000 (99.821)
+Epoch: [43][70/96]	Loss 0.0109 (0.0109)	Accuracy 100.000 (99.824)
+Epoch: [43][80/96]	Loss 0.0136 (0.0105)	Accuracy 100.000 (99.846)
+Epoch: [43][90/96]	Loss 0.0142 (0.0103)	Accuracy 100.000 (99.863)
+ * training  Accuracy 99.869
+Test: [ 0/24]	Loss 0.4039 (0.4039)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.4639 (0.5171)	Accuracy 89.844 (87.997)
+Test: [20/24]	Loss 0.6627 (0.5099)	Accuracy 87.500 (88.095)
+ * vail Accuracy 88.255
+Current best accuracy: 88.94754028320312
+72.64669060707092
+Current learning rate: 0.0001
+Epoch: [44][ 0/96]	Loss 0.0157 (0.0157)	Accuracy 100.000 (100.000)
+Epoch: [44][10/96]	Loss 0.0071 (0.0129)	Accuracy 100.000 (99.787)
+Epoch: [44][20/96]	Loss 0.0141 (0.0129)	Accuracy 100.000 (99.814)
+Epoch: [44][30/96]	Loss 0.0106 (0.0115)	Accuracy 99.219 (99.849)
+Epoch: [44][40/96]	Loss 0.0144 (0.0115)	Accuracy 99.219 (99.867)
+Epoch: [44][50/96]	Loss 0.0049 (0.0120)	Accuracy 100.000 (99.831)
+Epoch: [44][60/96]	Loss 0.0079 (0.0119)	Accuracy 100.000 (99.833)
+Epoch: [44][70/96]	Loss 0.0105 (0.0122)	Accuracy 100.000 (99.813)
+Epoch: [44][80/96]	Loss 0.0372 (0.0121)	Accuracy 99.219 (99.817)
+Epoch: [44][90/96]	Loss 0.0027 (0.0118)	Accuracy 100.000 (99.837)
+ * training  Accuracy 99.844
+Test: [ 0/24]	Loss 0.5395 (0.5395)	Accuracy 89.062 (89.062)
+Test: [10/24]	Loss 0.4669 (0.4877)	Accuracy 88.281 (88.920)
+Test: [20/24]	Loss 0.2442 (0.5075)	Accuracy 92.969 (88.653)
+ * vail Accuracy 88.453
+Current best accuracy: 88.94754028320312
+71.7502965927124
+Current learning rate: 0.0001
+Epoch: [45][ 0/96]	Loss 0.0212 (0.0212)	Accuracy 100.000 (100.000)
+Epoch: [45][10/96]	Loss 0.0132 (0.0119)	Accuracy 100.000 (100.000)
+Epoch: [45][20/96]	Loss 0.0237 (0.0130)	Accuracy 99.219 (99.926)
+Epoch: [45][30/96]	Loss 0.0037 (0.0113)	Accuracy 100.000 (99.950)
+Epoch: [45][40/96]	Loss 0.0099 (0.0107)	Accuracy 100.000 (99.943)
+Epoch: [45][50/96]	Loss 0.0309 (0.0121)	Accuracy 99.219 (99.877)
+Epoch: [45][60/96]	Loss 0.0185 (0.0119)	Accuracy 100.000 (99.885)
+Epoch: [45][70/96]	Loss 0.0078 (0.0118)	Accuracy 100.000 (99.890)
+Epoch: [45][80/96]	Loss 0.0031 (0.0115)	Accuracy 100.000 (99.894)
+Epoch: [45][90/96]	Loss 0.0102 (0.0114)	Accuracy 100.000 (99.888)
+ * training  Accuracy 99.860
+Test: [ 0/24]	Loss 0.3791 (0.3791)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.3266 (0.4614)	Accuracy 91.406 (88.707)
+Test: [20/24]	Loss 0.3751 (0.4775)	Accuracy 92.188 (89.025)
+ * vail Accuracy 89.244
+Current best accuracy: 89.24446868896484
+72.21376061439514
+Current learning rate: 0.0001
+Epoch: [46][ 0/96]	Loss 0.0065 (0.0065)	Accuracy 100.000 (100.000)
+Epoch: [46][10/96]	Loss 0.0040 (0.0068)	Accuracy 100.000 (99.929)
+Epoch: [46][20/96]	Loss 0.0088 (0.0094)	Accuracy 100.000 (99.888)
+Epoch: [46][30/96]	Loss 0.0044 (0.0102)	Accuracy 100.000 (99.824)
+Epoch: [46][40/96]	Loss 0.0194 (0.0101)	Accuracy 100.000 (99.848)
+Epoch: [46][50/96]	Loss 0.0097 (0.0097)	Accuracy 100.000 (99.877)
+Epoch: [46][60/96]	Loss 0.0066 (0.0102)	Accuracy 100.000 (99.872)
+Epoch: [46][70/96]	Loss 0.0153 (0.0099)	Accuracy 100.000 (99.890)
+Epoch: [46][80/96]	Loss 0.0047 (0.0098)	Accuracy 100.000 (99.894)
+Epoch: [46][90/96]	Loss 0.0109 (0.0100)	Accuracy 100.000 (99.888)
+ * training  Accuracy 99.877
+Test: [ 0/24]	Loss 0.5357 (0.5357)	Accuracy 88.281 (88.281)
+Test: [10/24]	Loss 0.5789 (0.5431)	Accuracy 89.844 (88.068)
+Test: [20/24]	Loss 0.4418 (0.5028)	Accuracy 88.281 (88.467)
+ * vail Accuracy 88.618
+Current best accuracy: 89.24446868896484
+71.74128437042236
+Current learning rate: 0.0001
+Epoch: [47][ 0/96]	Loss 0.0083 (0.0083)	Accuracy 100.000 (100.000)
+Epoch: [47][10/96]	Loss 0.0173 (0.0096)	Accuracy 99.219 (99.858)
+Epoch: [47][20/96]	Loss 0.0071 (0.0095)	Accuracy 100.000 (99.888)
+Epoch: [47][30/96]	Loss 0.0098 (0.0093)	Accuracy 100.000 (99.874)
+Epoch: [47][40/96]	Loss 0.0096 (0.0098)	Accuracy 100.000 (99.867)
+Epoch: [47][50/96]	Loss 0.0092 (0.0104)	Accuracy 100.000 (99.862)
+Epoch: [47][60/96]	Loss 0.0067 (0.0102)	Accuracy 100.000 (99.872)
+Epoch: [47][70/96]	Loss 0.0093 (0.0099)	Accuracy 100.000 (99.879)
+Epoch: [47][80/96]	Loss 0.0067 (0.0101)	Accuracy 100.000 (99.875)
+Epoch: [47][90/96]	Loss 0.0088 (0.0100)	Accuracy 100.000 (99.871)
+ * training  Accuracy 99.877
+Test: [ 0/24]	Loss 0.6019 (0.6019)	Accuracy 87.500 (87.500)
+Test: [10/24]	Loss 0.3040 (0.5147)	Accuracy 90.625 (88.068)
+Test: [20/24]	Loss 0.3896 (0.4861)	Accuracy 90.625 (88.504)
+ * vail Accuracy 88.387
+Current best accuracy: 89.24446868896484
+71.84489417076111
+Current learning rate: 0.0001
+Epoch: [48][ 0/96]	Loss 0.0048 (0.0048)	Accuracy 100.000 (100.000)
+Epoch: [48][10/96]	Loss 0.0050 (0.0102)	Accuracy 100.000 (99.787)
+Epoch: [48][20/96]	Loss 0.0026 (0.0114)	Accuracy 100.000 (99.777)
+Epoch: [48][30/96]	Loss 0.0093 (0.0128)	Accuracy 100.000 (99.748)
+Epoch: [48][40/96]	Loss 0.0170 (0.0136)	Accuracy 99.219 (99.733)
+Epoch: [48][50/96]	Loss 0.0023 (0.0125)	Accuracy 100.000 (99.786)
+Epoch: [48][60/96]	Loss 0.0044 (0.0123)	Accuracy 100.000 (99.808)
+Epoch: [48][70/96]	Loss 0.0210 (0.0119)	Accuracy 99.219 (99.824)
+Epoch: [48][80/96]	Loss 0.0084 (0.0114)	Accuracy 100.000 (99.836)
+Epoch: [48][90/96]	Loss 0.0044 (0.0117)	Accuracy 100.000 (99.820)
+ * training  Accuracy 99.819
+Test: [ 0/24]	Loss 0.3956 (0.3956)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.6600 (0.5502)	Accuracy 85.938 (87.926)
+Test: [20/24]	Loss 0.3107 (0.4979)	Accuracy 90.625 (88.393)
+ * vail Accuracy 88.321
+Current best accuracy: 89.24446868896484
+72.2578763961792
+Current learning rate: 0.0001
+Epoch: [49][ 0/96]	Loss 0.0253 (0.0253)	Accuracy 99.219 (99.219)
+Epoch: [49][10/96]	Loss 0.0191 (0.0104)	Accuracy 99.219 (99.787)
+Epoch: [49][20/96]	Loss 0.0098 (0.0099)	Accuracy 100.000 (99.851)
+Epoch: [49][30/96]	Loss 0.0070 (0.0090)	Accuracy 100.000 (99.899)
+Epoch: [49][40/96]	Loss 0.0057 (0.0096)	Accuracy 100.000 (99.905)
+Epoch: [49][50/96]	Loss 0.0105 (0.0097)	Accuracy 100.000 (99.893)
+Epoch: [49][60/96]	Loss 0.0145 (0.0105)	Accuracy 99.219 (99.859)
+Epoch: [49][70/96]	Loss 0.0027 (0.0104)	Accuracy 100.000 (99.846)
+Epoch: [49][80/96]	Loss 0.0019 (0.0100)	Accuracy 100.000 (99.855)
+Epoch: [49][90/96]	Loss 0.0047 (0.0105)	Accuracy 100.000 (99.845)
+ * training  Accuracy 99.836
+Test: [ 0/24]	Loss 0.4458 (0.4458)	Accuracy 89.844 (89.844)
+Test: [10/24]	Loss 0.4140 (0.4720)	Accuracy 86.719 (88.636)
+Test: [20/24]	Loss 0.6050 (0.5121)	Accuracy 89.844 (88.393)
+ * vail Accuracy 88.519
+Current best accuracy: 89.24446868896484
+71.94689536094666
+Current learning rate: 0.0001
+Epoch: [50][ 0/96]	Loss 0.0246 (0.0246)	Accuracy 99.219 (99.219)
+Epoch: [50][10/96]	Loss 0.0044 (0.0121)	Accuracy 100.000 (99.716)
+Epoch: [50][20/96]	Loss 0.0026 (0.0099)	Accuracy 100.000 (99.851)
+Epoch: [50][30/96]	Loss 0.0126 (0.0096)	Accuracy 100.000 (99.874)
+Epoch: [50][40/96]	Loss 0.0076 (0.0097)	Accuracy 100.000 (99.867)
+Epoch: [50][50/96]	Loss 0.0054 (0.0102)	Accuracy 100.000 (99.862)
+Epoch: [50][60/96]	Loss 0.0126 (0.0109)	Accuracy 100.000 (99.846)
+Epoch: [50][70/96]	Loss 0.0073 (0.0110)	Accuracy 100.000 (99.846)
+Epoch: [50][80/96]	Loss 0.0096 (0.0111)	Accuracy 100.000 (99.836)
+Epoch: [50][90/96]	Loss 0.0078 (0.0110)	Accuracy 99.219 (99.837)
+ * training  Accuracy 99.844
+Test: [ 0/24]	Loss 0.6335 (0.6335)	Accuracy 88.281 (88.281)
+Test: [10/24]	Loss 0.4906 (0.5522)	Accuracy 89.844 (87.784)
+Test: [20/24]	Loss 0.4526 (0.5168)	Accuracy 91.406 (88.616)
+ * vail Accuracy 88.783
+Current best accuracy: 89.24446868896484
+71.98084425926208
+Current learning rate: 0.0001
+Epoch: [51][ 0/96]	Loss 0.0111 (0.0111)	Accuracy 100.000 (100.000)
+Epoch: [51][10/96]	Loss 0.0193 (0.0126)	Accuracy 99.219 (99.858)
+Epoch: [51][20/96]	Loss 0.0079 (0.0125)	Accuracy 100.000 (99.740)
+Epoch: [51][30/96]	Loss 0.0202 (0.0123)	Accuracy 100.000 (99.773)
+Epoch: [51][40/96]	Loss 0.0076 (0.0113)	Accuracy 100.000 (99.828)
+Epoch: [51][50/96]	Loss 0.0205 (0.0117)	Accuracy 100.000 (99.831)
+Epoch: [51][60/96]	Loss 0.0054 (0.0113)	Accuracy 100.000 (99.846)
+Epoch: [51][70/96]	Loss 0.0045 (0.0117)	Accuracy 100.000 (99.846)
+Epoch: [51][80/96]	Loss 0.0112 (0.0117)	Accuracy 100.000 (99.826)
+Epoch: [51][90/96]	Loss 0.0262 (0.0117)	Accuracy 99.219 (99.820)
+ * training  Accuracy 99.819
+Test: [ 0/24]	Loss 0.4029 (0.4029)	Accuracy 89.844 (89.844)
+Test: [10/24]	Loss 0.4380 (0.4672)	Accuracy 87.500 (88.423)
+Test: [20/24]	Loss 0.2401 (0.4886)	Accuracy 89.844 (87.984)
+ * vail Accuracy 88.255
+Current best accuracy: 89.24446868896484
+73.86641597747803
+Current learning rate: 0.0001
+Epoch: [52][ 0/96]	Loss 0.0041 (0.0041)	Accuracy 100.000 (100.000)
+Epoch: [52][10/96]	Loss 0.0054 (0.0104)	Accuracy 100.000 (100.000)
+Epoch: [52][20/96]	Loss 0.0038 (0.0145)	Accuracy 100.000 (99.814)
+Epoch: [52][30/96]	Loss 0.0097 (0.0119)	Accuracy 100.000 (99.849)
+Epoch: [52][40/96]	Loss 0.0093 (0.0106)	Accuracy 100.000 (99.886)
+Epoch: [52][50/96]	Loss 0.0057 (0.0103)	Accuracy 100.000 (99.893)
+Epoch: [52][60/96]	Loss 0.0045 (0.0098)	Accuracy 100.000 (99.910)
+Epoch: [52][70/96]	Loss 0.0155 (0.0098)	Accuracy 100.000 (99.912)
+Epoch: [52][80/96]	Loss 0.0142 (0.0099)	Accuracy 100.000 (99.913)
+Epoch: [52][90/96]	Loss 0.0125 (0.0100)	Accuracy 100.000 (99.914)
+ * training  Accuracy 99.901
+Test: [ 0/24]	Loss 0.7524 (0.7524)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.5736 (0.4773)	Accuracy 87.500 (89.915)
+Test: [20/24]	Loss 0.5399 (0.4990)	Accuracy 86.719 (89.211)
+ * vail Accuracy 89.047
+Current best accuracy: 89.24446868896484
+72.0930187702179
+Current learning rate: 0.0001
+Epoch: [53][ 0/96]	Loss 0.0077 (0.0077)	Accuracy 100.000 (100.000)
+Epoch: [53][10/96]	Loss 0.0061 (0.0103)	Accuracy 100.000 (99.645)
+Epoch: [53][20/96]	Loss 0.0025 (0.0116)	Accuracy 100.000 (99.665)
+Epoch: [53][30/96]	Loss 0.0159 (0.0108)	Accuracy 100.000 (99.723)
+Epoch: [53][40/96]	Loss 0.0067 (0.0106)	Accuracy 100.000 (99.771)
+Epoch: [53][50/96]	Loss 0.0116 (0.0098)	Accuracy 100.000 (99.801)
+Epoch: [53][60/96]	Loss 0.0070 (0.0095)	Accuracy 100.000 (99.833)
+Epoch: [53][70/96]	Loss 0.0234 (0.0099)	Accuracy 99.219 (99.824)
+Epoch: [53][80/96]	Loss 0.0078 (0.0109)	Accuracy 100.000 (99.807)
+Epoch: [53][90/96]	Loss 0.0078 (0.0104)	Accuracy 100.000 (99.828)
+ * training  Accuracy 99.836
+Test: [ 0/24]	Loss 0.5345 (0.5345)	Accuracy 87.500 (87.500)
+Test: [10/24]	Loss 0.4281 (0.4745)	Accuracy 91.406 (88.139)
+Test: [20/24]	Loss 0.3433 (0.4777)	Accuracy 90.625 (88.170)
+ * vail Accuracy 88.123
+Current best accuracy: 89.24446868896484
+71.94641256332397
+Current learning rate: 0.0001
+Epoch: [54][ 0/96]	Loss 0.0244 (0.0244)	Accuracy 99.219 (99.219)
+Epoch: [54][10/96]	Loss 0.0093 (0.0095)	Accuracy 100.000 (99.787)
+Epoch: [54][20/96]	Loss 0.0112 (0.0092)	Accuracy 100.000 (99.888)
+Epoch: [54][30/96]	Loss 0.0044 (0.0103)	Accuracy 100.000 (99.849)
+Epoch: [54][40/96]	Loss 0.0111 (0.0102)	Accuracy 100.000 (99.867)
+Epoch: [54][50/96]	Loss 0.0188 (0.0101)	Accuracy 99.219 (99.862)
+Epoch: [54][60/96]	Loss 0.0043 (0.0101)	Accuracy 100.000 (99.859)
+Epoch: [54][70/96]	Loss 0.0133 (0.0103)	Accuracy 100.000 (99.857)
+Epoch: [54][80/96]	Loss 0.0057 (0.0100)	Accuracy 100.000 (99.855)
+Epoch: [54][90/96]	Loss 0.0045 (0.0101)	Accuracy 100.000 (99.854)
+ * training  Accuracy 99.844
+Test: [ 0/24]	Loss 0.3697 (0.3697)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.4998 (0.4431)	Accuracy 89.062 (89.347)
+Test: [20/24]	Loss 0.7582 (0.4782)	Accuracy 82.812 (88.542)
+ * vail Accuracy 88.651
+Current best accuracy: 89.24446868896484
+71.98261547088623
+Current learning rate: 0.0001
+Epoch: [55][ 0/96]	Loss 0.0035 (0.0035)	Accuracy 100.000 (100.000)
+Epoch: [55][10/96]	Loss 0.0077 (0.0083)	Accuracy 100.000 (99.929)
+Epoch: [55][20/96]	Loss 0.0090 (0.0083)	Accuracy 100.000 (99.963)
+Epoch: [55][30/96]	Loss 0.0074 (0.0086)	Accuracy 100.000 (99.950)
+Epoch: [55][40/96]	Loss 0.0050 (0.0088)	Accuracy 100.000 (99.943)
+Epoch: [55][50/96]	Loss 0.0229 (0.0094)	Accuracy 99.219 (99.923)
+Epoch: [55][60/96]	Loss 0.0109 (0.0097)	Accuracy 100.000 (99.910)
+Epoch: [55][70/96]	Loss 0.0122 (0.0098)	Accuracy 100.000 (99.912)
+Epoch: [55][80/96]	Loss 0.0056 (0.0096)	Accuracy 100.000 (99.923)
+Epoch: [55][90/96]	Loss 0.0089 (0.0094)	Accuracy 100.000 (99.931)
+ * training  Accuracy 99.910
+Test: [ 0/24]	Loss 0.6176 (0.6176)	Accuracy 86.719 (86.719)
+Test: [10/24]	Loss 0.6528 (0.4321)	Accuracy 88.281 (89.560)
+Test: [20/24]	Loss 0.4520 (0.4868)	Accuracy 86.719 (88.690)
+ * vail Accuracy 88.717
+Current best accuracy: 89.24446868896484
+71.83493041992188
+Current learning rate: 0.0001
+Epoch: [56][ 0/96]	Loss 0.0131 (0.0131)	Accuracy 100.000 (100.000)
+Epoch: [56][10/96]	Loss 0.0081 (0.0098)	Accuracy 100.000 (99.929)
+Epoch: [56][20/96]	Loss 0.0080 (0.0096)	Accuracy 100.000 (99.963)
+Epoch: [56][30/96]	Loss 0.0107 (0.0103)	Accuracy 100.000 (99.950)
+Epoch: [56][40/96]	Loss 0.0022 (0.0102)	Accuracy 100.000 (99.924)
+Epoch: [56][50/96]	Loss 0.0070 (0.0105)	Accuracy 100.000 (99.908)
+Epoch: [56][60/96]	Loss 0.0143 (0.0103)	Accuracy 100.000 (99.910)
+Epoch: [56][70/96]	Loss 0.0375 (0.0105)	Accuracy 98.438 (99.890)
+Epoch: [56][80/96]	Loss 0.0220 (0.0105)	Accuracy 99.219 (99.884)
+Epoch: [56][90/96]	Loss 0.0083 (0.0104)	Accuracy 100.000 (99.880)
+ * training  Accuracy 99.885
+Test: [ 0/24]	Loss 0.5686 (0.5686)	Accuracy 89.844 (89.844)
+Test: [10/24]	Loss 0.3565 (0.5036)	Accuracy 88.281 (88.352)
+Test: [20/24]	Loss 0.2452 (0.5024)	Accuracy 90.625 (88.170)
+ * vail Accuracy 88.288
+Current best accuracy: 89.24446868896484
+72.1702311038971
+Current learning rate: 0.0001
+Epoch: [57][ 0/96]	Loss 0.0071 (0.0071)	Accuracy 100.000 (100.000)
+Epoch: [57][10/96]	Loss 0.0056 (0.0073)	Accuracy 100.000 (100.000)
+Epoch: [57][20/96]	Loss 0.0034 (0.0082)	Accuracy 100.000 (99.963)
+Epoch: [57][30/96]	Loss 0.0112 (0.0085)	Accuracy 100.000 (99.975)
+Epoch: [57][40/96]	Loss 0.0030 (0.0088)	Accuracy 100.000 (99.943)
+Epoch: [57][50/96]	Loss 0.0139 (0.0089)	Accuracy 100.000 (99.939)
+Epoch: [57][60/96]	Loss 0.0039 (0.0090)	Accuracy 100.000 (99.936)
+Epoch: [57][70/96]	Loss 0.0088 (0.0090)	Accuracy 100.000 (99.923)
+Epoch: [57][80/96]	Loss 0.0029 (0.0096)	Accuracy 100.000 (99.894)
+Epoch: [57][90/96]	Loss 0.0052 (0.0094)	Accuracy 100.000 (99.897)
+ * training  Accuracy 99.901
+Test: [ 0/24]	Loss 0.6366 (0.6366)	Accuracy 86.719 (86.719)
+Test: [10/24]	Loss 0.4250 (0.5327)	Accuracy 88.281 (87.784)
+Test: [20/24]	Loss 0.3566 (0.4944)	Accuracy 90.625 (88.765)
+ * vail Accuracy 89.014
+Current best accuracy: 89.24446868896484
+71.95698595046997
+Current learning rate: 0.0001
+Epoch: [58][ 0/96]	Loss 0.0295 (0.0295)	Accuracy 99.219 (99.219)
+Epoch: [58][10/96]	Loss 0.0047 (0.0091)	Accuracy 100.000 (99.929)
+Epoch: [58][20/96]	Loss 0.0091 (0.0089)	Accuracy 100.000 (99.926)
+Epoch: [58][30/96]	Loss 0.0092 (0.0089)	Accuracy 100.000 (99.899)
+Epoch: [58][40/96]	Loss 0.0261 (0.0085)	Accuracy 100.000 (99.924)
+Epoch: [58][50/96]	Loss 0.0377 (0.0091)	Accuracy 98.438 (99.893)
+Epoch: [58][60/96]	Loss 0.0163 (0.0096)	Accuracy 100.000 (99.898)
+Epoch: [58][70/96]	Loss 0.0121 (0.0095)	Accuracy 100.000 (99.901)
+Epoch: [58][80/96]	Loss 0.0081 (0.0097)	Accuracy 100.000 (99.894)
+Epoch: [58][90/96]	Loss 0.0419 (0.0099)	Accuracy 98.438 (99.880)
+ * training  Accuracy 99.877
+Test: [ 0/24]	Loss 0.3990 (0.3990)	Accuracy 86.719 (86.719)
+Test: [10/24]	Loss 0.6380 (0.4889)	Accuracy 84.375 (87.855)
+Test: [20/24]	Loss 0.2622 (0.5054)	Accuracy 89.844 (87.872)
+ * vail Accuracy 88.321
+Current best accuracy: 89.24446868896484
+71.89119553565979
+Current learning rate: 0.0001
+Epoch: [59][ 0/96]	Loss 0.0053 (0.0053)	Accuracy 100.000 (100.000)
+Epoch: [59][10/96]	Loss 0.0267 (0.0097)	Accuracy 99.219 (99.716)
+Epoch: [59][20/96]	Loss 0.0088 (0.0095)	Accuracy 100.000 (99.814)
+Epoch: [59][30/96]	Loss 0.0121 (0.0095)	Accuracy 100.000 (99.849)
+Epoch: [59][40/96]	Loss 0.0051 (0.0090)	Accuracy 100.000 (99.848)
+Epoch: [59][50/96]	Loss 0.0083 (0.0092)	Accuracy 100.000 (99.862)
+Epoch: [59][60/96]	Loss 0.0105 (0.0095)	Accuracy 100.000 (99.859)
+Epoch: [59][70/96]	Loss 0.0254 (0.0099)	Accuracy 99.219 (99.846)
+Epoch: [59][80/96]	Loss 0.0066 (0.0099)	Accuracy 100.000 (99.855)
+Epoch: [59][90/96]	Loss 0.0036 (0.0099)	Accuracy 100.000 (99.854)
+ * training  Accuracy 99.860
+Test: [ 0/24]	Loss 0.4763 (0.4763)	Accuracy 86.719 (86.719)
+Test: [10/24]	Loss 0.2904 (0.4828)	Accuracy 94.531 (88.494)
+Test: [20/24]	Loss 0.8048 (0.4930)	Accuracy 82.812 (88.728)
+ * vail Accuracy 88.783
+Current best accuracy: 89.24446868896484
+72.38996767997742
+Current learning rate: 1e-05
+Epoch: [60][ 0/96]	Loss 0.0028 (0.0028)	Accuracy 100.000 (100.000)
+Epoch: [60][10/96]	Loss 0.0028 (0.0113)	Accuracy 100.000 (99.787)
+Epoch: [60][20/96]	Loss 0.0054 (0.0111)	Accuracy 100.000 (99.777)
+Epoch: [60][30/96]	Loss 0.0230 (0.0105)	Accuracy 100.000 (99.773)
+Epoch: [60][40/96]	Loss 0.0079 (0.0093)	Accuracy 100.000 (99.828)
+Epoch: [60][50/96]	Loss 0.0155 (0.0098)	Accuracy 99.219 (99.816)
+Epoch: [60][60/96]	Loss 0.0082 (0.0104)	Accuracy 100.000 (99.795)
+Epoch: [60][70/96]	Loss 0.0068 (0.0101)	Accuracy 100.000 (99.813)
+Epoch: [60][80/96]	Loss 0.0120 (0.0098)	Accuracy 100.000 (99.826)
+Epoch: [60][90/96]	Loss 0.0082 (0.0096)	Accuracy 100.000 (99.837)
+ * training  Accuracy 99.836
+Test: [ 0/24]	Loss 0.6215 (0.6215)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.5513 (0.4614)	Accuracy 87.500 (89.560)
+Test: [20/24]	Loss 0.3845 (0.4748)	Accuracy 89.844 (89.249)
+ * vail Accuracy 89.145
+Current best accuracy: 89.24446868896484
+73.3503315448761
+Current learning rate: 1e-05
+Epoch: [61][ 0/96]	Loss 0.0054 (0.0054)	Accuracy 100.000 (100.000)
+Epoch: [61][10/96]	Loss 0.0207 (0.0099)	Accuracy 100.000 (99.929)
+Epoch: [61][20/96]	Loss 0.0031 (0.0090)	Accuracy 100.000 (99.888)
+Epoch: [61][30/96]	Loss 0.0032 (0.0096)	Accuracy 100.000 (99.849)
+Epoch: [61][40/96]	Loss 0.0204 (0.0095)	Accuracy 100.000 (99.867)
+Epoch: [61][50/96]	Loss 0.0065 (0.0090)	Accuracy 100.000 (99.893)
+Epoch: [61][60/96]	Loss 0.0050 (0.0088)	Accuracy 100.000 (99.885)
+Epoch: [61][70/96]	Loss 0.0159 (0.0090)	Accuracy 100.000 (99.890)
+Epoch: [61][80/96]	Loss 0.0057 (0.0091)	Accuracy 100.000 (99.894)
+Epoch: [61][90/96]	Loss 0.0032 (0.0090)	Accuracy 100.000 (99.906)
+ * training  Accuracy 99.901
+Test: [ 0/24]	Loss 0.2761 (0.2761)	Accuracy 93.750 (93.750)
+Test: [10/24]	Loss 0.5791 (0.5188)	Accuracy 89.844 (87.216)
+Test: [20/24]	Loss 0.5070 (0.5086)	Accuracy 89.844 (88.170)
+ * vail Accuracy 88.585
+Current best accuracy: 89.24446868896484
+72.43154621124268
+Current learning rate: 1e-05
+Epoch: [62][ 0/96]	Loss 0.0059 (0.0059)	Accuracy 100.000 (100.000)
+Epoch: [62][10/96]	Loss 0.0156 (0.0110)	Accuracy 100.000 (99.787)
+Epoch: [62][20/96]	Loss 0.0027 (0.0092)	Accuracy 100.000 (99.851)
+Epoch: [62][30/96]	Loss 0.0112 (0.0105)	Accuracy 100.000 (99.874)
+Epoch: [62][40/96]	Loss 0.0201 (0.0109)	Accuracy 99.219 (99.867)
+Epoch: [62][50/96]	Loss 0.0147 (0.0103)	Accuracy 99.219 (99.877)
+Epoch: [62][60/96]	Loss 0.0034 (0.0101)	Accuracy 100.000 (99.872)
+Epoch: [62][70/96]	Loss 0.0097 (0.0102)	Accuracy 100.000 (99.868)
+Epoch: [62][80/96]	Loss 0.0159 (0.0105)	Accuracy 100.000 (99.855)
+Epoch: [62][90/96]	Loss 0.0179 (0.0104)	Accuracy 100.000 (99.854)
+ * training  Accuracy 99.852
+Test: [ 0/24]	Loss 0.9519 (0.9519)	Accuracy 80.469 (80.469)
+Test: [10/24]	Loss 0.2838 (0.5390)	Accuracy 95.312 (88.849)
+Test: [20/24]	Loss 0.3378 (0.4960)	Accuracy 89.844 (88.876)
+ * vail Accuracy 88.816
+Current best accuracy: 89.24446868896484
+72.4126226902008
+Current learning rate: 1e-05
+Epoch: [63][ 0/96]	Loss 0.0102 (0.0102)	Accuracy 99.219 (99.219)
+Epoch: [63][10/96]	Loss 0.0071 (0.0077)	Accuracy 100.000 (99.787)
+Epoch: [63][20/96]	Loss 0.0045 (0.0076)	Accuracy 100.000 (99.851)
+Epoch: [63][30/96]	Loss 0.0108 (0.0075)	Accuracy 100.000 (99.874)
+Epoch: [63][40/96]	Loss 0.0093 (0.0080)	Accuracy 99.219 (99.848)
+Epoch: [63][50/96]	Loss 0.0086 (0.0083)	Accuracy 100.000 (99.877)
+Epoch: [63][60/96]	Loss 0.0037 (0.0082)	Accuracy 100.000 (99.898)
+Epoch: [63][70/96]	Loss 0.0038 (0.0081)	Accuracy 100.000 (99.890)
+Epoch: [63][80/96]	Loss 0.0105 (0.0081)	Accuracy 100.000 (99.904)
+Epoch: [63][90/96]	Loss 0.0168 (0.0080)	Accuracy 100.000 (99.914)
+ * training  Accuracy 99.918
+Test: [ 0/24]	Loss 0.5256 (0.5256)	Accuracy 85.938 (85.938)
+Test: [10/24]	Loss 0.4803 (0.4970)	Accuracy 90.625 (88.849)
+Test: [20/24]	Loss 0.5620 (0.5029)	Accuracy 85.938 (88.542)
+ * vail Accuracy 88.717
+Current best accuracy: 89.24446868896484
+71.77537512779236
+Current learning rate: 1e-05
+Epoch: [64][ 0/96]	Loss 0.0094 (0.0094)	Accuracy 100.000 (100.000)
+Epoch: [64][10/96]	Loss 0.0121 (0.0073)	Accuracy 100.000 (100.000)
+Epoch: [64][20/96]	Loss 0.0099 (0.0075)	Accuracy 100.000 (99.963)
+Epoch: [64][30/96]	Loss 0.0089 (0.0084)	Accuracy 100.000 (99.950)
+Epoch: [64][40/96]	Loss 0.0131 (0.0091)	Accuracy 99.219 (99.924)
+Epoch: [64][50/96]	Loss 0.0080 (0.0092)	Accuracy 100.000 (99.939)
+Epoch: [64][60/96]	Loss 0.0239 (0.0093)	Accuracy 99.219 (99.923)
+Epoch: [64][70/96]	Loss 0.0024 (0.0090)	Accuracy 100.000 (99.923)
+Epoch: [64][80/96]	Loss 0.0122 (0.0087)	Accuracy 100.000 (99.932)
+Epoch: [64][90/96]	Loss 0.0436 (0.0096)	Accuracy 99.219 (99.906)
+ * training  Accuracy 99.877
+Test: [ 0/24]	Loss 0.4748 (0.4748)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.5454 (0.4953)	Accuracy 85.938 (88.849)
+Test: [20/24]	Loss 0.4866 (0.4912)	Accuracy 88.281 (89.249)
+ * vail Accuracy 88.981
+Current best accuracy: 89.24446868896484
+71.96457147598267
+Current learning rate: 1e-05
+Epoch: [65][ 0/96]	Loss 0.0045 (0.0045)	Accuracy 100.000 (100.000)
+Epoch: [65][10/96]	Loss 0.0053 (0.0092)	Accuracy 100.000 (100.000)
+Epoch: [65][20/96]	Loss 0.0213 (0.0113)	Accuracy 99.219 (99.814)
+Epoch: [65][30/96]	Loss 0.0109 (0.0105)	Accuracy 99.219 (99.824)
+Epoch: [65][40/96]	Loss 0.0044 (0.0100)	Accuracy 100.000 (99.828)
+Epoch: [65][50/96]	Loss 0.0131 (0.0097)	Accuracy 100.000 (99.862)
+Epoch: [65][60/96]	Loss 0.0094 (0.0101)	Accuracy 100.000 (99.846)
+Epoch: [65][70/96]	Loss 0.0048 (0.0100)	Accuracy 100.000 (99.868)
+Epoch: [65][80/96]	Loss 0.0037 (0.0102)	Accuracy 100.000 (99.875)
+Epoch: [65][90/96]	Loss 0.0050 (0.0102)	Accuracy 100.000 (99.854)
+ * training  Accuracy 99.844
+Test: [ 0/24]	Loss 0.5843 (0.5843)	Accuracy 91.406 (91.406)
+Test: [10/24]	Loss 0.3830 (0.5103)	Accuracy 89.844 (89.134)
+Test: [20/24]	Loss 0.4928 (0.4917)	Accuracy 91.406 (88.914)
+ * vail Accuracy 88.882
+Current best accuracy: 89.24446868896484
+72.00197434425354
+Current learning rate: 1e-05
+Epoch: [66][ 0/96]	Loss 0.0144 (0.0144)	Accuracy 100.000 (100.000)
+Epoch: [66][10/96]	Loss 0.0177 (0.0097)	Accuracy 99.219 (99.858)
+Epoch: [66][20/96]	Loss 0.0043 (0.0101)	Accuracy 100.000 (99.851)
+Epoch: [66][30/96]	Loss 0.0145 (0.0098)	Accuracy 99.219 (99.849)
+Epoch: [66][40/96]	Loss 0.0067 (0.0096)	Accuracy 100.000 (99.867)
+Epoch: [66][50/96]	Loss 0.0104 (0.0095)	Accuracy 100.000 (99.877)
+Epoch: [66][60/96]	Loss 0.0128 (0.0091)	Accuracy 100.000 (99.885)
+Epoch: [66][70/96]	Loss 0.0051 (0.0095)	Accuracy 100.000 (99.846)
+Epoch: [66][80/96]	Loss 0.0109 (0.0099)	Accuracy 100.000 (99.826)
+Epoch: [66][90/96]	Loss 0.0103 (0.0102)	Accuracy 100.000 (99.828)
+ * training  Accuracy 99.836
+Test: [ 0/24]	Loss 0.8256 (0.8256)	Accuracy 83.594 (83.594)
+Test: [10/24]	Loss 0.5179 (0.4894)	Accuracy 90.625 (88.707)
+Test: [20/24]	Loss 0.4107 (0.4885)	Accuracy 92.188 (88.504)
+ * vail Accuracy 88.816
+Current best accuracy: 89.24446868896484
+72.29936099052429
+Current learning rate: 1e-05
+Epoch: [67][ 0/96]	Loss 0.0336 (0.0336)	Accuracy 99.219 (99.219)
+Epoch: [67][10/96]	Loss 0.0215 (0.0136)	Accuracy 99.219 (99.716)
+Epoch: [67][20/96]	Loss 0.0119 (0.0111)	Accuracy 100.000 (99.851)
+Epoch: [67][30/96]	Loss 0.0060 (0.0100)	Accuracy 100.000 (99.849)
+Epoch: [67][40/96]	Loss 0.0054 (0.0100)	Accuracy 100.000 (99.848)
+Epoch: [67][50/96]	Loss 0.0136 (0.0103)	Accuracy 100.000 (99.862)
+Epoch: [67][60/96]	Loss 0.0163 (0.0106)	Accuracy 100.000 (99.872)
+Epoch: [67][70/96]	Loss 0.0374 (0.0109)	Accuracy 99.219 (99.846)
+Epoch: [67][80/96]	Loss 0.0236 (0.0107)	Accuracy 98.438 (99.836)
+Epoch: [67][90/96]	Loss 0.0073 (0.0105)	Accuracy 100.000 (99.837)
+ * training  Accuracy 99.844
+Test: [ 0/24]	Loss 0.6220 (0.6220)	Accuracy 87.500 (87.500)
+Test: [10/24]	Loss 0.7368 (0.5091)	Accuracy 86.719 (88.352)
+Test: [20/24]	Loss 0.4449 (0.4868)	Accuracy 89.844 (88.802)
+ * vail Accuracy 88.684
+Current best accuracy: 89.24446868896484
+71.90341925621033
+Current learning rate: 1e-05
+Epoch: [68][ 0/96]	Loss 0.0088 (0.0088)	Accuracy 100.000 (100.000)
+Epoch: [68][10/96]	Loss 0.0083 (0.0111)	Accuracy 100.000 (99.787)
+Epoch: [68][20/96]	Loss 0.0032 (0.0142)	Accuracy 100.000 (99.740)
+Epoch: [68][30/96]	Loss 0.0146 (0.0124)	Accuracy 99.219 (99.798)
+Epoch: [68][40/96]	Loss 0.0076 (0.0119)	Accuracy 100.000 (99.809)
+Epoch: [68][50/96]	Loss 0.0068 (0.0108)	Accuracy 100.000 (99.847)
+Epoch: [68][60/96]	Loss 0.0224 (0.0110)	Accuracy 99.219 (99.833)
+Epoch: [68][70/96]	Loss 0.0045 (0.0106)	Accuracy 100.000 (99.846)
+Epoch: [68][80/96]	Loss 0.0068 (0.0108)	Accuracy 100.000 (99.826)
+Epoch: [68][90/96]	Loss 0.0186 (0.0105)	Accuracy 99.219 (99.828)
+ * training  Accuracy 99.819
+Test: [ 0/24]	Loss 0.5106 (0.5106)	Accuracy 86.719 (86.719)
+Test: [10/24]	Loss 0.5424 (0.4617)	Accuracy 89.062 (89.134)
+Test: [20/24]	Loss 0.5125 (0.4769)	Accuracy 88.281 (88.988)
+ * vail Accuracy 88.651
+Current best accuracy: 89.24446868896484
+73.10890483856201
+Current learning rate: 1e-05
+Epoch: [69][ 0/96]	Loss 0.0067 (0.0067)	Accuracy 100.000 (100.000)
+Epoch: [69][10/96]	Loss 0.0050 (0.0083)	Accuracy 100.000 (99.787)
+Epoch: [69][20/96]	Loss 0.0057 (0.0097)	Accuracy 100.000 (99.814)
+Epoch: [69][30/96]	Loss 0.0059 (0.0099)	Accuracy 100.000 (99.824)
+Epoch: [69][40/96]	Loss 0.0139 (0.0096)	Accuracy 99.219 (99.828)
+Epoch: [69][50/96]	Loss 0.0151 (0.0100)	Accuracy 100.000 (99.831)
+Epoch: [69][60/96]	Loss 0.0194 (0.0100)	Accuracy 100.000 (99.859)
+Epoch: [69][70/96]	Loss 0.0072 (0.0104)	Accuracy 100.000 (99.857)
+Epoch: [69][80/96]	Loss 0.0038 (0.0106)	Accuracy 100.000 (99.855)
+Epoch: [69][90/96]	Loss 0.0037 (0.0103)	Accuracy 100.000 (99.871)
+ * training  Accuracy 99.869
+Test: [ 0/24]	Loss 0.4818 (0.4818)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.7126 (0.5052)	Accuracy 84.375 (87.997)
+Test: [20/24]	Loss 0.5446 (0.4994)	Accuracy 89.844 (88.690)
+ * vail Accuracy 88.717
+Current best accuracy: 89.24446868896484
+72.15312051773071
+Current learning rate: 1e-05
+Epoch: [70][ 0/96]	Loss 0.0185 (0.0185)	Accuracy 99.219 (99.219)
+Epoch: [70][10/96]	Loss 0.0036 (0.0130)	Accuracy 100.000 (99.716)
+Epoch: [70][20/96]	Loss 0.0048 (0.0109)	Accuracy 100.000 (99.814)
+Epoch: [70][30/96]	Loss 0.0094 (0.0108)	Accuracy 100.000 (99.849)
+Epoch: [70][40/96]	Loss 0.0054 (0.0116)	Accuracy 100.000 (99.828)
+Epoch: [70][50/96]	Loss 0.0090 (0.0110)	Accuracy 100.000 (99.831)
+Epoch: [70][60/96]	Loss 0.0064 (0.0109)	Accuracy 100.000 (99.833)
+Epoch: [70][70/96]	Loss 0.0054 (0.0105)	Accuracy 100.000 (99.846)
+Epoch: [70][80/96]	Loss 0.0028 (0.0118)	Accuracy 100.000 (99.797)
+Epoch: [70][90/96]	Loss 0.0037 (0.0119)	Accuracy 100.000 (99.794)
+ * training  Accuracy 99.795
+Test: [ 0/24]	Loss 0.3109 (0.3109)	Accuracy 91.406 (91.406)
+Test: [10/24]	Loss 0.2997 (0.4522)	Accuracy 90.625 (89.205)
+Test: [20/24]	Loss 0.2812 (0.4795)	Accuracy 93.750 (88.765)
+ * vail Accuracy 88.486
+Current best accuracy: 89.24446868896484
+72.13396620750427
+Current learning rate: 1e-05
+Epoch: [71][ 0/96]	Loss 0.0061 (0.0061)	Accuracy 100.000 (100.000)
+Epoch: [71][10/96]	Loss 0.0195 (0.0090)	Accuracy 100.000 (100.000)
+Epoch: [71][20/96]	Loss 0.0072 (0.0087)	Accuracy 100.000 (99.963)
+Epoch: [71][30/96]	Loss 0.0134 (0.0085)	Accuracy 100.000 (99.975)
+Epoch: [71][40/96]	Loss 0.0072 (0.0089)	Accuracy 100.000 (99.943)
+Epoch: [71][50/96]	Loss 0.0137 (0.0086)	Accuracy 100.000 (99.954)
+Epoch: [71][60/96]	Loss 0.0035 (0.0087)	Accuracy 100.000 (99.936)
+Epoch: [71][70/96]	Loss 0.0092 (0.0085)	Accuracy 100.000 (99.934)
+Epoch: [71][80/96]	Loss 0.0153 (0.0087)	Accuracy 100.000 (99.942)
+Epoch: [71][90/96]	Loss 0.0103 (0.0092)	Accuracy 100.000 (99.914)
+ * training  Accuracy 99.918
+Test: [ 0/24]	Loss 0.7596 (0.7596)	Accuracy 83.594 (83.594)
+Test: [10/24]	Loss 0.4491 (0.5729)	Accuracy 86.719 (87.145)
+Test: [20/24]	Loss 0.2839 (0.5020)	Accuracy 92.969 (88.393)
+ * vail Accuracy 88.552
+Current best accuracy: 89.24446868896484
+71.96744108200073
+Current learning rate: 1e-05
+Epoch: [72][ 0/96]	Loss 0.0132 (0.0132)	Accuracy 100.000 (100.000)
+Epoch: [72][10/96]	Loss 0.0121 (0.0169)	Accuracy 100.000 (99.361)
+Epoch: [72][20/96]	Loss 0.0304 (0.0133)	Accuracy 100.000 (99.665)
+Epoch: [72][30/96]	Loss 0.0248 (0.0129)	Accuracy 99.219 (99.723)
+Epoch: [72][40/96]	Loss 0.0322 (0.0129)	Accuracy 99.219 (99.733)
+Epoch: [72][50/96]	Loss 0.0037 (0.0120)	Accuracy 100.000 (99.755)
+Epoch: [72][60/96]	Loss 0.0065 (0.0120)	Accuracy 100.000 (99.757)
+Epoch: [72][70/96]	Loss 0.0046 (0.0117)	Accuracy 100.000 (99.780)
+Epoch: [72][80/96]	Loss 0.0119 (0.0112)	Accuracy 100.000 (99.807)
+Epoch: [72][90/96]	Loss 0.0027 (0.0111)	Accuracy 100.000 (99.811)
+ * training  Accuracy 99.819
+Test: [ 0/24]	Loss 0.3089 (0.3089)	Accuracy 92.969 (92.969)
+Test: [10/24]	Loss 0.4828 (0.5547)	Accuracy 89.844 (88.281)
+Test: [20/24]	Loss 0.3618 (0.4773)	Accuracy 89.844 (89.211)
+ * vail Accuracy 89.178
+Current best accuracy: 89.24446868896484
+72.38221621513367
+Current learning rate: 1e-05
+Epoch: [73][ 0/96]	Loss 0.0093 (0.0093)	Accuracy 100.000 (100.000)
+Epoch: [73][10/96]	Loss 0.0027 (0.0081)	Accuracy 100.000 (99.858)
+Epoch: [73][20/96]	Loss 0.0113 (0.0080)	Accuracy 100.000 (99.888)
+Epoch: [73][30/96]	Loss 0.0177 (0.0090)	Accuracy 99.219 (99.874)
+Epoch: [73][40/96]	Loss 0.0114 (0.0096)	Accuracy 100.000 (99.867)
+Epoch: [73][50/96]	Loss 0.0121 (0.0105)	Accuracy 100.000 (99.847)
+Epoch: [73][60/96]	Loss 0.0108 (0.0098)	Accuracy 100.000 (99.872)
+Epoch: [73][70/96]	Loss 0.0105 (0.0096)	Accuracy 100.000 (99.890)
+Epoch: [73][80/96]	Loss 0.0049 (0.0094)	Accuracy 100.000 (99.904)
+Epoch: [73][90/96]	Loss 0.0056 (0.0092)	Accuracy 100.000 (99.914)
+ * training  Accuracy 99.918
+Test: [ 0/24]	Loss 0.2497 (0.2497)	Accuracy 92.969 (92.969)
+Test: [10/24]	Loss 0.3661 (0.5135)	Accuracy 90.625 (88.707)
+Test: [20/24]	Loss 0.6910 (0.5043)	Accuracy 86.719 (88.542)
+ * vail Accuracy 88.651
+Current best accuracy: 89.24446868896484
+72.60924959182739
+Current learning rate: 1e-05
+Epoch: [74][ 0/96]	Loss 0.0078 (0.0078)	Accuracy 100.000 (100.000)
+Epoch: [74][10/96]	Loss 0.0110 (0.0091)	Accuracy 100.000 (99.929)
+Epoch: [74][20/96]	Loss 0.0079 (0.0089)	Accuracy 100.000 (99.963)
+Epoch: [74][30/96]	Loss 0.0104 (0.0099)	Accuracy 100.000 (99.950)
+Epoch: [74][40/96]	Loss 0.0053 (0.0092)	Accuracy 100.000 (99.943)
+Epoch: [74][50/96]	Loss 0.0172 (0.0095)	Accuracy 100.000 (99.923)
+Epoch: [74][60/96]	Loss 0.0056 (0.0092)	Accuracy 100.000 (99.936)
+Epoch: [74][70/96]	Loss 0.0053 (0.0092)	Accuracy 100.000 (99.923)
+Epoch: [74][80/96]	Loss 0.0132 (0.0090)	Accuracy 100.000 (99.913)
+Epoch: [74][90/96]	Loss 0.0072 (0.0091)	Accuracy 100.000 (99.914)
+ * training  Accuracy 99.901
+Test: [ 0/24]	Loss 0.2987 (0.2987)	Accuracy 91.406 (91.406)
+Test: [10/24]	Loss 0.4915 (0.5093)	Accuracy 89.062 (87.642)
+Test: [20/24]	Loss 0.4353 (0.5192)	Accuracy 91.406 (87.984)
+ * vail Accuracy 87.892
+Current best accuracy: 89.24446868896484
+72.2988691329956
+Current learning rate: 1e-05
+Epoch: [75][ 0/96]	Loss 0.0019 (0.0019)	Accuracy 100.000 (100.000)
+Epoch: [75][10/96]	Loss 0.0061 (0.0092)	Accuracy 100.000 (99.858)
+Epoch: [75][20/96]	Loss 0.0097 (0.0083)	Accuracy 100.000 (99.926)
+Epoch: [75][30/96]	Loss 0.0054 (0.0083)	Accuracy 100.000 (99.924)
+Epoch: [75][40/96]	Loss 0.0106 (0.0078)	Accuracy 100.000 (99.943)
+Epoch: [75][50/96]	Loss 0.0043 (0.0077)	Accuracy 100.000 (99.954)
+Epoch: [75][60/96]	Loss 0.0095 (0.0075)	Accuracy 100.000 (99.962)
+Epoch: [75][70/96]	Loss 0.0051 (0.0075)	Accuracy 100.000 (99.945)
+Epoch: [75][80/96]	Loss 0.0042 (0.0075)	Accuracy 100.000 (99.952)
+Epoch: [75][90/96]	Loss 0.0206 (0.0078)	Accuracy 100.000 (99.957)
+ * training  Accuracy 99.951
+Test: [ 0/24]	Loss 0.5039 (0.5039)	Accuracy 88.281 (88.281)
+Test: [10/24]	Loss 0.6187 (0.4958)	Accuracy 87.500 (88.636)
+Test: [20/24]	Loss 0.4565 (0.4773)	Accuracy 89.062 (88.876)
+ * vail Accuracy 88.519
+Current best accuracy: 89.24446868896484
+72.50113868713379
+Current learning rate: 1e-05
+Epoch: [76][ 0/96]	Loss 0.0214 (0.0214)	Accuracy 99.219 (99.219)
+Epoch: [76][10/96]	Loss 0.0045 (0.0100)	Accuracy 100.000 (99.787)
+Epoch: [76][20/96]	Loss 0.0057 (0.0085)	Accuracy 100.000 (99.888)
+Epoch: [76][30/96]	Loss 0.0034 (0.0094)	Accuracy 100.000 (99.824)
+Epoch: [76][40/96]	Loss 0.0043 (0.0099)	Accuracy 100.000 (99.809)
+Epoch: [76][50/96]	Loss 0.0083 (0.0096)	Accuracy 100.000 (99.831)
+Epoch: [76][60/96]	Loss 0.0117 (0.0098)	Accuracy 100.000 (99.821)
+Epoch: [76][70/96]	Loss 0.0170 (0.0097)	Accuracy 99.219 (99.835)
+Epoch: [76][80/96]	Loss 0.0062 (0.0094)	Accuracy 100.000 (99.836)
+Epoch: [76][90/96]	Loss 0.0222 (0.0093)	Accuracy 99.219 (99.837)
+ * training  Accuracy 99.836
+Test: [ 0/24]	Loss 0.6109 (0.6109)	Accuracy 88.281 (88.281)
+Test: [10/24]	Loss 0.5710 (0.5614)	Accuracy 88.281 (87.003)
+Test: [20/24]	Loss 0.6024 (0.5172)	Accuracy 86.719 (87.798)
+ * vail Accuracy 87.925
+Current best accuracy: 89.24446868896484
+73.66113829612732
+Current learning rate: 1e-05
+Epoch: [77][ 0/96]	Loss 0.0121 (0.0121)	Accuracy 100.000 (100.000)
+Epoch: [77][10/96]	Loss 0.0115 (0.0132)	Accuracy 100.000 (99.787)
+Epoch: [77][20/96]	Loss 0.0207 (0.0119)	Accuracy 99.219 (99.814)
+Epoch: [77][30/96]	Loss 0.0031 (0.0104)	Accuracy 100.000 (99.849)
+Epoch: [77][40/96]	Loss 0.0156 (0.0099)	Accuracy 100.000 (99.867)
+Epoch: [77][50/96]	Loss 0.0032 (0.0099)	Accuracy 100.000 (99.877)
+Epoch: [77][60/96]	Loss 0.0295 (0.0102)	Accuracy 99.219 (99.859)
+Epoch: [77][70/96]	Loss 0.0090 (0.0096)	Accuracy 100.000 (99.879)
+Epoch: [77][80/96]	Loss 0.0090 (0.0096)	Accuracy 100.000 (99.875)
+Epoch: [77][90/96]	Loss 0.0020 (0.0093)	Accuracy 100.000 (99.888)
+ * training  Accuracy 99.885
+Test: [ 0/24]	Loss 0.2763 (0.2763)	Accuracy 89.062 (89.062)
+Test: [10/24]	Loss 0.3956 (0.5035)	Accuracy 89.062 (88.210)
+Test: [20/24]	Loss 0.3523 (0.4790)	Accuracy 89.062 (88.281)
+ * vail Accuracy 88.420
+Current best accuracy: 89.24446868896484
+72.4480812549591
+Current learning rate: 1e-05
+Epoch: [78][ 0/96]	Loss 0.0087 (0.0087)	Accuracy 100.000 (100.000)
+Epoch: [78][10/96]	Loss 0.0070 (0.0077)	Accuracy 100.000 (99.929)
+Epoch: [78][20/96]	Loss 0.0072 (0.0082)	Accuracy 100.000 (99.926)
+Epoch: [78][30/96]	Loss 0.0112 (0.0086)	Accuracy 99.219 (99.874)
+Epoch: [78][40/96]	Loss 0.0071 (0.0087)	Accuracy 100.000 (99.867)
+Epoch: [78][50/96]	Loss 0.0054 (0.0091)	Accuracy 100.000 (99.877)
+Epoch: [78][60/96]	Loss 0.0064 (0.0093)	Accuracy 100.000 (99.885)
+Epoch: [78][70/96]	Loss 0.0092 (0.0091)	Accuracy 100.000 (99.901)
+Epoch: [78][80/96]	Loss 0.0131 (0.0090)	Accuracy 100.000 (99.904)
+Epoch: [78][90/96]	Loss 0.0036 (0.0090)	Accuracy 100.000 (99.888)
+ * training  Accuracy 99.885
+Test: [ 0/24]	Loss 0.3133 (0.3133)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.6318 (0.4742)	Accuracy 87.500 (89.489)
+Test: [20/24]	Loss 0.4122 (0.4720)	Accuracy 89.062 (88.839)
+ * vail Accuracy 88.849
+Current best accuracy: 89.24446868896484
+72.47002649307251
+Current learning rate: 1e-05
+Epoch: [79][ 0/96]	Loss 0.0068 (0.0068)	Accuracy 100.000 (100.000)
+Epoch: [79][10/96]	Loss 0.0330 (0.0126)	Accuracy 100.000 (99.787)
+Epoch: [79][20/96]	Loss 0.0032 (0.0090)	Accuracy 100.000 (99.888)
+Epoch: [79][30/96]	Loss 0.0256 (0.0101)	Accuracy 100.000 (99.899)
+Epoch: [79][40/96]	Loss 0.0056 (0.0107)	Accuracy 100.000 (99.867)
+Epoch: [79][50/96]	Loss 0.0163 (0.0108)	Accuracy 100.000 (99.862)
+Epoch: [79][60/96]	Loss 0.0093 (0.0107)	Accuracy 100.000 (99.872)
+Epoch: [79][70/96]	Loss 0.0097 (0.0103)	Accuracy 100.000 (99.890)
+Epoch: [79][80/96]	Loss 0.0042 (0.0101)	Accuracy 100.000 (99.884)
+Epoch: [79][90/96]	Loss 0.0261 (0.0107)	Accuracy 100.000 (99.871)
+ * training  Accuracy 99.877
+Test: [ 0/24]	Loss 0.3276 (0.3276)	Accuracy 91.406 (91.406)
+Test: [10/24]	Loss 0.5119 (0.5185)	Accuracy 86.719 (87.926)
+Test: [20/24]	Loss 0.4942 (0.5056)	Accuracy 89.844 (88.281)
+ * vail Accuracy 88.354
+Current best accuracy: 89.24446868896484
+72.60555815696716
+Current learning rate: 1.0000000000000002e-06
+Epoch: [80][ 0/96]	Loss 0.0048 (0.0048)	Accuracy 100.000 (100.000)
+Epoch: [80][10/96]	Loss 0.0071 (0.0140)	Accuracy 100.000 (99.716)
+Epoch: [80][20/96]	Loss 0.0096 (0.0115)	Accuracy 100.000 (99.814)
+Epoch: [80][30/96]	Loss 0.0042 (0.0107)	Accuracy 100.000 (99.798)
+Epoch: [80][40/96]	Loss 0.0044 (0.0100)	Accuracy 100.000 (99.848)
+Epoch: [80][50/96]	Loss 0.0039 (0.0101)	Accuracy 100.000 (99.847)
+Epoch: [80][60/96]	Loss 0.0101 (0.0101)	Accuracy 100.000 (99.833)
+Epoch: [80][70/96]	Loss 0.0043 (0.0097)	Accuracy 100.000 (99.846)
+Epoch: [80][80/96]	Loss 0.0037 (0.0099)	Accuracy 100.000 (99.836)
+Epoch: [80][90/96]	Loss 0.0040 (0.0101)	Accuracy 100.000 (99.828)
+ * training  Accuracy 99.828
+Test: [ 0/24]	Loss 0.4028 (0.4028)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.4041 (0.4758)	Accuracy 89.062 (88.565)
+Test: [20/24]	Loss 0.6937 (0.4953)	Accuracy 87.500 (88.579)
+ * vail Accuracy 88.354
+Current best accuracy: 89.24446868896484
+72.7789294719696
+Current learning rate: 1.0000000000000002e-06
+Epoch: [81][ 0/96]	Loss 0.0329 (0.0329)	Accuracy 99.219 (99.219)
+Epoch: [81][10/96]	Loss 0.0055 (0.0094)	Accuracy 100.000 (99.929)
+Epoch: [81][20/96]	Loss 0.0089 (0.0089)	Accuracy 100.000 (99.926)
+Epoch: [81][30/96]	Loss 0.0110 (0.0107)	Accuracy 100.000 (99.899)
+Epoch: [81][40/96]	Loss 0.0039 (0.0107)	Accuracy 100.000 (99.886)
+Epoch: [81][50/96]	Loss 0.0064 (0.0107)	Accuracy 100.000 (99.877)
+Epoch: [81][60/96]	Loss 0.0045 (0.0106)	Accuracy 100.000 (99.898)
+Epoch: [81][70/96]	Loss 0.0172 (0.0109)	Accuracy 100.000 (99.879)
+Epoch: [81][80/96]	Loss 0.0076 (0.0103)	Accuracy 100.000 (99.894)
+Epoch: [81][90/96]	Loss 0.0054 (0.0102)	Accuracy 100.000 (99.888)
+ * training  Accuracy 99.869
+Test: [ 0/24]	Loss 0.3110 (0.3110)	Accuracy 92.969 (92.969)
+Test: [10/24]	Loss 0.5612 (0.4396)	Accuracy 90.625 (89.986)
+Test: [20/24]	Loss 0.7235 (0.4690)	Accuracy 85.938 (89.360)
+ * vail Accuracy 89.244
+Current best accuracy: 89.24446868896484
+72.34168338775635
+Current learning rate: 1.0000000000000002e-06
+Epoch: [82][ 0/96]	Loss 0.0041 (0.0041)	Accuracy 100.000 (100.000)
+Epoch: [82][10/96]	Loss 0.0049 (0.0078)	Accuracy 100.000 (99.929)
+Epoch: [82][20/96]	Loss 0.0081 (0.0076)	Accuracy 100.000 (99.963)
+Epoch: [82][30/96]	Loss 0.0214 (0.0084)	Accuracy 99.219 (99.950)
+Epoch: [82][40/96]	Loss 0.0095 (0.0095)	Accuracy 100.000 (99.943)
+Epoch: [82][50/96]	Loss 0.0228 (0.0102)	Accuracy 99.219 (99.877)
+Epoch: [82][60/96]	Loss 0.0130 (0.0098)	Accuracy 100.000 (99.898)
+Epoch: [82][70/96]	Loss 0.0035 (0.0096)	Accuracy 100.000 (99.890)
+Epoch: [82][80/96]	Loss 0.0069 (0.0097)	Accuracy 100.000 (99.884)
+Epoch: [82][90/96]	Loss 0.0047 (0.0095)	Accuracy 100.000 (99.888)
+ * training  Accuracy 99.893
+Test: [ 0/24]	Loss 0.5511 (0.5511)	Accuracy 86.719 (86.719)
+Test: [10/24]	Loss 0.3381 (0.5667)	Accuracy 87.500 (87.500)
+Test: [20/24]	Loss 0.4584 (0.5030)	Accuracy 88.281 (88.356)
+ * vail Accuracy 88.453
+Current best accuracy: 89.24446868896484
+72.51052165031433
+Current learning rate: 1.0000000000000002e-06
+Epoch: [83][ 0/96]	Loss 0.0127 (0.0127)	Accuracy 100.000 (100.000)
+Epoch: [83][10/96]	Loss 0.0085 (0.0112)	Accuracy 100.000 (99.929)
+Epoch: [83][20/96]	Loss 0.0174 (0.0115)	Accuracy 99.219 (99.814)
+Epoch: [83][30/96]	Loss 0.0261 (0.0110)	Accuracy 99.219 (99.849)
+Epoch: [83][40/96]	Loss 0.0111 (0.0103)	Accuracy 100.000 (99.848)
+Epoch: [83][50/96]	Loss 0.0346 (0.0119)	Accuracy 98.438 (99.801)
+Epoch: [83][60/96]	Loss 0.0153 (0.0112)	Accuracy 99.219 (99.808)
+Epoch: [83][70/96]	Loss 0.0082 (0.0116)	Accuracy 100.000 (99.802)
+Epoch: [83][80/96]	Loss 0.0030 (0.0112)	Accuracy 100.000 (99.807)
+Epoch: [83][90/96]	Loss 0.0041 (0.0110)	Accuracy 100.000 (99.811)
+ * training  Accuracy 99.811
+Test: [ 0/24]	Loss 0.5393 (0.5393)	Accuracy 92.188 (92.188)
+Test: [10/24]	Loss 0.4300 (0.5647)	Accuracy 87.500 (87.571)
+Test: [20/24]	Loss 0.2565 (0.5220)	Accuracy 90.625 (88.281)
+ * vail Accuracy 88.123
+Current best accuracy: 89.24446868896484
+71.86514210700989
+Current learning rate: 1.0000000000000002e-06
+Epoch: [84][ 0/96]	Loss 0.0122 (0.0122)	Accuracy 100.000 (100.000)
+Epoch: [84][10/96]	Loss 0.0041 (0.0104)	Accuracy 100.000 (99.787)
+Epoch: [84][20/96]	Loss 0.0047 (0.0121)	Accuracy 100.000 (99.777)
+Epoch: [84][30/96]	Loss 0.0042 (0.0113)	Accuracy 100.000 (99.748)
+Epoch: [84][40/96]	Loss 0.0207 (0.0115)	Accuracy 100.000 (99.771)
+Epoch: [84][50/96]	Loss 0.0078 (0.0110)	Accuracy 100.000 (99.816)
+Epoch: [84][60/96]	Loss 0.0045 (0.0103)	Accuracy 100.000 (99.846)
+Epoch: [84][70/96]	Loss 0.0111 (0.0103)	Accuracy 100.000 (99.846)
+Epoch: [84][80/96]	Loss 0.0090 (0.0103)	Accuracy 99.219 (99.846)
+Epoch: [84][90/96]	Loss 0.0087 (0.0097)	Accuracy 100.000 (99.863)
+ * training  Accuracy 99.852
+Test: [ 0/24]	Loss 0.3585 (0.3585)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.5839 (0.5025)	Accuracy 86.719 (88.139)
+Test: [20/24]	Loss 0.4400 (0.5079)	Accuracy 87.500 (88.021)
+ * vail Accuracy 88.189
+Current best accuracy: 89.24446868896484
+73.6146821975708
+Current learning rate: 1.0000000000000002e-06
+Epoch: [85][ 0/96]	Loss 0.0037 (0.0037)	Accuracy 100.000 (100.000)
+Epoch: [85][10/96]	Loss 0.0085 (0.0073)	Accuracy 100.000 (99.929)
+Epoch: [85][20/96]	Loss 0.0030 (0.0099)	Accuracy 100.000 (99.851)
+Epoch: [85][30/96]	Loss 0.0096 (0.0104)	Accuracy 100.000 (99.824)
+Epoch: [85][40/96]	Loss 0.0028 (0.0096)	Accuracy 100.000 (99.867)
+Epoch: [85][50/96]	Loss 0.0082 (0.0100)	Accuracy 100.000 (99.862)
+Epoch: [85][60/96]	Loss 0.0021 (0.0092)	Accuracy 100.000 (99.885)
+Epoch: [85][70/96]	Loss 0.0078 (0.0093)	Accuracy 100.000 (99.890)
+Epoch: [85][80/96]	Loss 0.0183 (0.0091)	Accuracy 99.219 (99.884)
+Epoch: [85][90/96]	Loss 0.0082 (0.0090)	Accuracy 100.000 (99.897)
+ * training  Accuracy 99.901
+Test: [ 0/24]	Loss 0.4526 (0.4526)	Accuracy 87.500 (87.500)
+Test: [10/24]	Loss 0.2878 (0.5396)	Accuracy 91.406 (87.926)
+Test: [20/24]	Loss 0.3440 (0.5257)	Accuracy 90.625 (87.835)
+ * vail Accuracy 88.123
+Current best accuracy: 89.24446868896484
+72.81083130836487
+Current learning rate: 1.0000000000000002e-06
+Epoch: [86][ 0/96]	Loss 0.0039 (0.0039)	Accuracy 100.000 (100.000)
+Epoch: [86][10/96]	Loss 0.0086 (0.0124)	Accuracy 100.000 (99.787)
+Epoch: [86][20/96]	Loss 0.0027 (0.0099)	Accuracy 100.000 (99.851)
+Epoch: [86][30/96]	Loss 0.0187 (0.0102)	Accuracy 99.219 (99.798)
+Epoch: [86][40/96]	Loss 0.0060 (0.0095)	Accuracy 100.000 (99.848)
+Epoch: [86][50/96]	Loss 0.0039 (0.0093)	Accuracy 100.000 (99.831)
+Epoch: [86][60/96]	Loss 0.0049 (0.0088)	Accuracy 100.000 (99.859)
+Epoch: [86][70/96]	Loss 0.0043 (0.0088)	Accuracy 100.000 (99.857)
+Epoch: [86][80/96]	Loss 0.0052 (0.0087)	Accuracy 100.000 (99.865)
+Epoch: [86][90/96]	Loss 0.0025 (0.0086)	Accuracy 100.000 (99.871)
+ * training  Accuracy 99.877
+Test: [ 0/24]	Loss 0.4715 (0.4715)	Accuracy 88.281 (88.281)
+Test: [10/24]	Loss 0.2789 (0.4818)	Accuracy 89.844 (87.997)
+Test: [20/24]	Loss 0.3914 (0.4968)	Accuracy 92.188 (88.170)
+ * vail Accuracy 88.354
+Current best accuracy: 89.24446868896484
+72.57554483413696
+Current learning rate: 1.0000000000000002e-06
+Epoch: [87][ 0/96]	Loss 0.0076 (0.0076)	Accuracy 100.000 (100.000)
+Epoch: [87][10/96]	Loss 0.0061 (0.0079)	Accuracy 100.000 (100.000)
+Epoch: [87][20/96]	Loss 0.0033 (0.0084)	Accuracy 100.000 (99.963)
+Epoch: [87][30/96]	Loss 0.0046 (0.0084)	Accuracy 100.000 (99.950)
+Epoch: [87][40/96]	Loss 0.0038 (0.0090)	Accuracy 100.000 (99.924)
+Epoch: [87][50/96]	Loss 0.0137 (0.0094)	Accuracy 100.000 (99.923)
+Epoch: [87][60/96]	Loss 0.0027 (0.0095)	Accuracy 100.000 (99.898)
+Epoch: [87][70/96]	Loss 0.0047 (0.0095)	Accuracy 100.000 (99.901)
+Epoch: [87][80/96]	Loss 0.0042 (0.0095)	Accuracy 100.000 (99.894)
+Epoch: [87][90/96]	Loss 0.0125 (0.0093)	Accuracy 100.000 (99.906)
+ * training  Accuracy 99.885
+Test: [ 0/24]	Loss 0.3764 (0.3764)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.5595 (0.5176)	Accuracy 88.281 (88.210)
+Test: [20/24]	Loss 0.3365 (0.5143)	Accuracy 91.406 (88.467)
+ * vail Accuracy 88.750
+Current best accuracy: 89.24446868896484
+73.07235956192017
+Current learning rate: 1.0000000000000002e-06
+Epoch: [88][ 0/96]	Loss 0.0076 (0.0076)	Accuracy 100.000 (100.000)
+Epoch: [88][10/96]	Loss 0.0102 (0.0084)	Accuracy 100.000 (99.929)
+Epoch: [88][20/96]	Loss 0.0087 (0.0075)	Accuracy 100.000 (99.926)
+Epoch: [88][30/96]	Loss 0.0313 (0.0077)	Accuracy 99.219 (99.899)
+Epoch: [88][40/96]	Loss 0.0051 (0.0084)	Accuracy 100.000 (99.867)
+Epoch: [88][50/96]	Loss 0.0033 (0.0084)	Accuracy 100.000 (99.862)
+Epoch: [88][60/96]	Loss 0.0105 (0.0090)	Accuracy 100.000 (99.846)
+Epoch: [88][70/96]	Loss 0.0062 (0.0099)	Accuracy 100.000 (99.802)
+Epoch: [88][80/96]	Loss 0.0064 (0.0104)	Accuracy 100.000 (99.797)
+Epoch: [88][90/96]	Loss 0.0188 (0.0104)	Accuracy 99.219 (99.794)
+ * training  Accuracy 99.795
+Test: [ 0/24]	Loss 0.3622 (0.3622)	Accuracy 86.719 (86.719)
+Test: [10/24]	Loss 0.7187 (0.5562)	Accuracy 87.500 (87.358)
+Test: [20/24]	Loss 0.5779 (0.5066)	Accuracy 87.500 (88.244)
+ * vail Accuracy 88.387
+Current best accuracy: 89.24446868896484
+72.52871632575989
+Current learning rate: 1.0000000000000002e-06
+Epoch: [89][ 0/96]	Loss 0.0299 (0.0299)	Accuracy 99.219 (99.219)
+Epoch: [89][10/96]	Loss 0.0124 (0.0141)	Accuracy 100.000 (99.787)
+Epoch: [89][20/96]	Loss 0.0038 (0.0118)	Accuracy 100.000 (99.851)
+Epoch: [89][30/96]	Loss 0.0028 (0.0107)	Accuracy 100.000 (99.874)
+Epoch: [89][40/96]	Loss 0.0060 (0.0106)	Accuracy 100.000 (99.886)
+Epoch: [89][50/96]	Loss 0.0158 (0.0104)	Accuracy 99.219 (99.862)
+Epoch: [89][60/96]	Loss 0.0056 (0.0104)	Accuracy 100.000 (99.859)
+Epoch: [89][70/96]	Loss 0.0072 (0.0098)	Accuracy 100.000 (99.868)
+Epoch: [89][80/96]	Loss 0.0038 (0.0099)	Accuracy 100.000 (99.875)
+Epoch: [89][90/96]	Loss 0.0108 (0.0099)	Accuracy 100.000 (99.880)
+ * training  Accuracy 99.877
+Test: [ 0/24]	Loss 0.4944 (0.4944)	Accuracy 90.625 (90.625)
+Test: [10/24]	Loss 0.2508 (0.4550)	Accuracy 91.406 (89.347)
+Test: [20/24]	Loss 0.3297 (0.4660)	Accuracy 89.844 (89.025)
+ * vail Accuracy 88.750
+Current best accuracy: 89.24446868896484
+72.51422762870789
+Current learning rate: 1.0000000000000002e-06
+Epoch: [90][ 0/96]	Loss 0.0041 (0.0041)	Accuracy 100.000 (100.000)
+Epoch: [90][10/96]	Loss 0.0041 (0.0083)	Accuracy 100.000 (100.000)
+Epoch: [90][20/96]	Loss 0.0031 (0.0081)	Accuracy 100.000 (99.963)
+Epoch: [90][30/96]	Loss 0.0020 (0.0091)	Accuracy 100.000 (99.899)
+Epoch: [90][40/96]	Loss 0.0116 (0.0086)	Accuracy 100.000 (99.905)
+Epoch: [90][50/96]	Loss 0.0078 (0.0083)	Accuracy 100.000 (99.908)
+Epoch: [90][60/96]	Loss 0.0059 (0.0084)	Accuracy 100.000 (99.923)
+Epoch: [90][70/96]	Loss 0.0106 (0.0082)	Accuracy 100.000 (99.934)
+Epoch: [90][80/96]	Loss 0.0118 (0.0081)	Accuracy 100.000 (99.932)
+Epoch: [90][90/96]	Loss 0.0053 (0.0081)	Accuracy 100.000 (99.931)
+ * training  Accuracy 99.918
+Test: [ 0/24]	Loss 0.4748 (0.4748)	Accuracy 87.500 (87.500)
+Test: [10/24]	Loss 0.1760 (0.4461)	Accuracy 96.094 (90.128)
+Test: [20/24]	Loss 0.6055 (0.4821)	Accuracy 85.938 (89.100)
+ * vail Accuracy 88.750
+Current best accuracy: 89.24446868896484
+72.81760597229004
+Current learning rate: 1.0000000000000002e-06
+Epoch: [91][ 0/96]	Loss 0.0139 (0.0139)	Accuracy 100.000 (100.000)
+Epoch: [91][10/96]	Loss 0.0078 (0.0101)	Accuracy 99.219 (99.858)
+Epoch: [91][20/96]	Loss 0.0227 (0.0105)	Accuracy 99.219 (99.851)
+Epoch: [91][30/96]	Loss 0.0092 (0.0100)	Accuracy 100.000 (99.874)
+Epoch: [91][40/96]	Loss 0.0021 (0.0095)	Accuracy 100.000 (99.905)
+Epoch: [91][50/96]	Loss 0.0095 (0.0090)	Accuracy 100.000 (99.923)
+Epoch: [91][60/96]	Loss 0.0023 (0.0087)	Accuracy 100.000 (99.923)
+Epoch: [91][70/96]	Loss 0.0019 (0.0092)	Accuracy 100.000 (99.901)
+Epoch: [91][80/96]	Loss 0.0022 (0.0091)	Accuracy 100.000 (99.913)
+Epoch: [91][90/96]	Loss 0.0124 (0.0089)	Accuracy 100.000 (99.923)
+ * training  Accuracy 99.918
+Test: [ 0/24]	Loss 0.5770 (0.5770)	Accuracy 87.500 (87.500)
+Test: [10/24]	Loss 0.2649 (0.4076)	Accuracy 93.750 (89.844)
+Test: [20/24]	Loss 0.1854 (0.4924)	Accuracy 93.750 (88.542)
+ * vail Accuracy 88.684
+Current best accuracy: 89.24446868896484
+72.74371266365051
+Current learning rate: 1.0000000000000002e-06
+Epoch: [92][ 0/96]	Loss 0.0080 (0.0080)	Accuracy 100.000 (100.000)
+Epoch: [92][10/96]	Loss 0.0037 (0.0118)	Accuracy 100.000 (99.787)
+Epoch: [92][20/96]	Loss 0.0248 (0.0113)	Accuracy 99.219 (99.814)
+Epoch: [92][30/96]	Loss 0.0051 (0.0108)	Accuracy 100.000 (99.824)
+Epoch: [92][40/96]	Loss 0.0068 (0.0110)	Accuracy 100.000 (99.828)
+Epoch: [92][50/96]	Loss 0.0260 (0.0117)	Accuracy 99.219 (99.786)
+Epoch: [92][60/96]	Loss 0.0065 (0.0122)	Accuracy 100.000 (99.769)
+Epoch: [92][70/96]	Loss 0.0067 (0.0121)	Accuracy 100.000 (99.780)
+Epoch: [92][80/96]	Loss 0.0067 (0.0119)	Accuracy 100.000 (99.788)
+Epoch: [92][90/96]	Loss 0.0184 (0.0119)	Accuracy 99.219 (99.803)
+ * training  Accuracy 99.803
+Test: [ 0/24]	Loss 0.5908 (0.5908)	Accuracy 85.938 (85.938)
+Test: [10/24]	Loss 0.5139 (0.4834)	Accuracy 85.938 (88.920)
+Test: [20/24]	Loss 0.2403 (0.4739)	Accuracy 91.406 (88.690)
+ * vail Accuracy 88.717
+Current best accuracy: 89.24446868896484
+74.01176929473877
+Current learning rate: 1.0000000000000002e-06
+Epoch: [93][ 0/96]	Loss 0.0167 (0.0167)	Accuracy 100.000 (100.000)
+Epoch: [93][10/96]	Loss 0.0112 (0.0086)	Accuracy 99.219 (99.858)
+Epoch: [93][20/96]	Loss 0.0063 (0.0090)	Accuracy 100.000 (99.851)
+Epoch: [93][30/96]	Loss 0.0102 (0.0087)	Accuracy 100.000 (99.874)
+Epoch: [93][40/96]	Loss 0.0070 (0.0094)	Accuracy 100.000 (99.828)
+Epoch: [93][50/96]	Loss 0.0031 (0.0089)	Accuracy 100.000 (99.831)
+Epoch: [93][60/96]	Loss 0.0241 (0.0102)	Accuracy 100.000 (99.846)
+Epoch: [93][70/96]	Loss 0.0043 (0.0102)	Accuracy 100.000 (99.857)
+Epoch: [93][80/96]	Loss 0.0216 (0.0101)	Accuracy 98.438 (99.855)
+Epoch: [93][90/96]	Loss 0.0038 (0.0096)	Accuracy 100.000 (99.871)
+ * training  Accuracy 99.877
+Test: [ 0/24]	Loss 0.3741 (0.3741)	Accuracy 89.844 (89.844)
+Test: [10/24]	Loss 0.6860 (0.4698)	Accuracy 85.938 (89.062)
+Test: [20/24]	Loss 0.3958 (0.4890)	Accuracy 88.281 (88.318)
+ * vail Accuracy 88.321
+Current best accuracy: 89.24446868896484
+72.37638354301453
+Current learning rate: 1.0000000000000002e-06
+Epoch: [94][ 0/96]	Loss 0.0103 (0.0103)	Accuracy 100.000 (100.000)
+Epoch: [94][10/96]	Loss 0.0088 (0.0119)	Accuracy 100.000 (99.787)
+Epoch: [94][20/96]	Loss 0.0028 (0.0090)	Accuracy 100.000 (99.888)
+Epoch: [94][30/96]	Loss 0.0270 (0.0118)	Accuracy 100.000 (99.798)
+Epoch: [94][40/96]	Loss 0.0137 (0.0115)	Accuracy 99.219 (99.771)
+Epoch: [94][50/96]	Loss 0.0184 (0.0115)	Accuracy 99.219 (99.770)
+Epoch: [94][60/96]	Loss 0.0050 (0.0116)	Accuracy 100.000 (99.769)
+Epoch: [94][70/96]	Loss 0.0055 (0.0111)	Accuracy 100.000 (99.802)
+Epoch: [94][80/96]	Loss 0.0273 (0.0109)	Accuracy 99.219 (99.817)
+Epoch: [94][90/96]	Loss 0.0075 (0.0107)	Accuracy 100.000 (99.828)
+ * training  Accuracy 99.828
+Test: [ 0/24]	Loss 0.5675 (0.5675)	Accuracy 89.844 (89.844)
+Test: [10/24]	Loss 0.5188 (0.4746)	Accuracy 88.281 (89.062)
+Test: [20/24]	Loss 0.7813 (0.5063)	Accuracy 85.156 (88.430)
+ * vail Accuracy 88.222
+Current best accuracy: 89.24446868896484
+72.7834370136261
+Current learning rate: 1.0000000000000002e-06
+Epoch: [95][ 0/96]	Loss 0.0173 (0.0173)	Accuracy 99.219 (99.219)
+Epoch: [95][10/96]	Loss 0.0931 (0.0177)	Accuracy 96.875 (99.645)
+Epoch: [95][20/96]	Loss 0.0053 (0.0136)	Accuracy 100.000 (99.777)
+Epoch: [95][30/96]	Loss 0.0143 (0.0124)	Accuracy 99.219 (99.798)
+Epoch: [95][40/96]	Loss 0.0042 (0.0119)	Accuracy 100.000 (99.790)
+Epoch: [95][50/96]	Loss 0.0081 (0.0119)	Accuracy 100.000 (99.755)
+Epoch: [95][60/96]	Loss 0.0059 (0.0112)	Accuracy 100.000 (99.795)
+Epoch: [95][70/96]	Loss 0.0249 (0.0112)	Accuracy 99.219 (99.802)
+Epoch: [95][80/96]	Loss 0.0023 (0.0112)	Accuracy 100.000 (99.807)
+Epoch: [95][90/96]	Loss 0.0082 (0.0108)	Accuracy 100.000 (99.828)
+ * training  Accuracy 99.836
+Test: [ 0/24]	Loss 0.3604 (0.3604)	Accuracy 88.281 (88.281)
+Test: [10/24]	Loss 0.4916 (0.5535)	Accuracy 89.844 (87.571)
+Test: [20/24]	Loss 0.5213 (0.5001)	Accuracy 86.719 (87.946)
+ * vail Accuracy 88.189
+Current best accuracy: 89.24446868896484
+72.21390795707703
+Current learning rate: 1.0000000000000002e-06
+Epoch: [96][ 0/96]	Loss 0.0141 (0.0141)	Accuracy 100.000 (100.000)
+Epoch: [96][10/96]	Loss 0.0099 (0.0123)	Accuracy 100.000 (99.858)
+Epoch: [96][20/96]	Loss 0.0046 (0.0114)	Accuracy 100.000 (99.814)
+Epoch: [96][30/96]	Loss 0.0057 (0.0112)	Accuracy 100.000 (99.849)
+Epoch: [96][40/96]	Loss 0.0092 (0.0106)	Accuracy 100.000 (99.886)
+Epoch: [96][50/96]	Loss 0.0148 (0.0097)	Accuracy 100.000 (99.908)
+Epoch: [96][60/96]	Loss 0.0107 (0.0095)	Accuracy 100.000 (99.923)
+Epoch: [96][70/96]	Loss 0.0052 (0.0094)	Accuracy 100.000 (99.923)
+Epoch: [96][80/96]	Loss 0.0107 (0.0093)	Accuracy 100.000 (99.932)
+Epoch: [96][90/96]	Loss 0.0256 (0.0096)	Accuracy 99.219 (99.914)
+ * training  Accuracy 99.910
+Test: [ 0/24]	Loss 0.5653 (0.5653)	Accuracy 83.594 (83.594)
+Test: [10/24]	Loss 0.5396 (0.4925)	Accuracy 85.938 (89.062)
+Test: [20/24]	Loss 0.4318 (0.4663)	Accuracy 90.625 (89.211)
+ * vail Accuracy 88.915
+Current best accuracy: 89.24446868896484
+72.16591763496399
+Current learning rate: 1.0000000000000002e-06
+Epoch: [97][ 0/96]	Loss 0.0023 (0.0023)	Accuracy 100.000 (100.000)
+Epoch: [97][10/96]	Loss 0.0116 (0.0048)	Accuracy 100.000 (100.000)
+Epoch: [97][20/96]	Loss 0.0057 (0.0058)	Accuracy 100.000 (100.000)
+Epoch: [97][30/96]	Loss 0.0060 (0.0084)	Accuracy 100.000 (99.924)
+Epoch: [97][40/96]	Loss 0.0123 (0.0085)	Accuracy 100.000 (99.924)
+Epoch: [97][50/96]	Loss 0.0134 (0.0087)	Accuracy 99.219 (99.908)
+Epoch: [97][60/96]	Loss 0.0025 (0.0086)	Accuracy 100.000 (99.910)
+Epoch: [97][70/96]	Loss 0.0074 (0.0093)	Accuracy 100.000 (99.879)
+Epoch: [97][80/96]	Loss 0.0232 (0.0094)	Accuracy 99.219 (99.875)
+Epoch: [97][90/96]	Loss 0.0075 (0.0095)	Accuracy 100.000 (99.863)
+ * training  Accuracy 99.869
+Test: [ 0/24]	Loss 0.1721 (0.1721)	Accuracy 91.406 (91.406)
+Test: [10/24]	Loss 0.5688 (0.4714)	Accuracy 87.500 (89.844)
+Test: [20/24]	Loss 0.4365 (0.4841)	Accuracy 90.625 (88.988)
+ * vail Accuracy 89.244
+Current best accuracy: 89.24446868896484
+72.21237754821777
+Current learning rate: 1.0000000000000002e-06
+Epoch: [98][ 0/96]	Loss 0.0096 (0.0096)	Accuracy 100.000 (100.000)
+Epoch: [98][10/96]	Loss 0.0052 (0.0064)	Accuracy 100.000 (100.000)
+Epoch: [98][20/96]	Loss 0.0074 (0.0080)	Accuracy 100.000 (99.888)
+Epoch: [98][30/96]	Loss 0.0052 (0.0089)	Accuracy 100.000 (99.824)
+Epoch: [98][40/96]	Loss 0.0046 (0.0093)	Accuracy 100.000 (99.848)
+Epoch: [98][50/96]	Loss 0.0057 (0.0093)	Accuracy 100.000 (99.831)
+Epoch: [98][60/96]	Loss 0.0157 (0.0094)	Accuracy 100.000 (99.846)
+Epoch: [98][70/96]	Loss 0.0059 (0.0093)	Accuracy 100.000 (99.857)
+Epoch: [98][80/96]	Loss 0.0068 (0.0097)	Accuracy 100.000 (99.836)
+Epoch: [98][90/96]	Loss 0.0272 (0.0096)	Accuracy 99.219 (99.845)
+ * training  Accuracy 99.852
+Test: [ 0/24]	Loss 0.5752 (0.5752)	Accuracy 89.844 (89.844)
+Test: [10/24]	Loss 0.6591 (0.5116)	Accuracy 86.719 (87.855)
+Test: [20/24]	Loss 0.4125 (0.4766)	Accuracy 91.406 (88.802)
+ * vail Accuracy 88.684
+Current best accuracy: 89.24446868896484
+73.12533593177795
+Current learning rate: 1.0000000000000002e-06
+Epoch: [99][ 0/96]	Loss 0.0125 (0.0125)	Accuracy 100.000 (100.000)
+Epoch: [99][10/96]	Loss 0.0049 (0.0108)	Accuracy 100.000 (99.787)
+Epoch: [99][20/96]	Loss 0.0066 (0.0086)	Accuracy 100.000 (99.888)
+Epoch: [99][30/96]	Loss 0.0043 (0.0097)	Accuracy 100.000 (99.899)
+Epoch: [99][40/96]	Loss 0.0070 (0.0090)	Accuracy 100.000 (99.905)
+Epoch: [99][50/96]	Loss 0.0121 (0.0088)	Accuracy 100.000 (99.923)
+Epoch: [99][60/96]	Loss 0.0085 (0.0092)	Accuracy 100.000 (99.910)
+Epoch: [99][70/96]	Loss 0.0051 (0.0090)	Accuracy 100.000 (99.923)
+Epoch: [99][80/96]	Loss 0.0023 (0.0089)	Accuracy 100.000 (99.923)
+Epoch: [99][90/96]	Loss 0.0150 (0.0088)	Accuracy 100.000 (99.931)
+ * training  Accuracy 99.918
+Test: [ 0/24]	Loss 1.0280 (1.0280)	Accuracy 84.375 (84.375)
+Test: [10/24]	Loss 0.4376 (0.5234)	Accuracy 91.406 (87.997)
+Test: [20/24]	Loss 0.4885 (0.4909)	Accuracy 89.062 (88.914)
+ * vail Accuracy 88.816
+Current best accuracy: 89.24446868896484
+72.28671002388
