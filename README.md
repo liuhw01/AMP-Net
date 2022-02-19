@@ -36,7 +36,7 @@ Ubuntu 20.04 LTS, Python 3.8, PyTorch 1.9.0
 
 * Step 2: download pre-trained model from [Google Drive](https://drive.google.com/file/d/1o5foBQ4NHtp6pDfh1-s65pbOwwu1pG-i/view?usp=sharing), and put it into `./checkpoint`.
 
-* Step 3: change data_path in main.py to your path
+* Step 3: change data_path in `main.py` to your path
 
 * Step 4: run `python main.py`
 
@@ -45,7 +45,7 @@ Training results can be downloaded in [Google Drive](https://drive.google.com/dr
 ## If you use this work, please cite our paper
 
 ```
-@article{zhao2021learning,
+@article{liuhw01,
   title={Adaptive multi-layer perceptual attention network for facial expression recognition},
   author={Hanwei Liu, Huiling Cai, Qingcheng Lin, Xuefeng Li, Hui Xiao},
   journal={},
