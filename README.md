@@ -34,12 +34,13 @@ Ubuntu 20.04 LTS, Python 3.8, PyTorch 1.9.0
 
 
 
-* Step 2: download pre-trained model from Google Drive, and put it into ./checkpoint.
+* Step 2: download pre-trained model from [Google Drive](), and put it into `./checkpoint`.
 
 * Step 3: change data_path in main.py to your path
 
-* Step 4: run python main.py
+* Step 4: run `python main.py`
 
+Training results can be downloaded in [Google Drive]().
 
 ## If you use this work, please cite our paper
 
