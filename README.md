@@ -43,10 +43,15 @@ Ubuntu 20.04 LTS, Python 3.8, PyTorch 1.9.0
 
 ## If you use this work, please cite our paper
 
+```
+@article{zhao2021learning,
+  title={Adaptive multi-layer perceptual attention network for facial expression recognition},
+  author={Hanwei Liu, Huiling Cai, Qingcheng Lin, Xuefeng Li, Hui Xiao},
+  journal={},
+  volume={},
+  pages={},
+  year={},
+  publisher={}
+}
+```
 
-
-## Contributors
-
-For any questions, feel free to open an issue or contact us:
-
-* liuhw1@tongji.edu.cn
