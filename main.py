@@ -192,7 +192,7 @@ now = datetime.datetime.now()
 time_str = now.strftime("[%m-%d]-[%H-%M]-")
 best_acc = 0
 print('Training time: ' + now.strftime("%m-%d %H:%M"))
-data_path = '/home/lighting/liuhanwei/Occlusion FER/my occusion/RAF/'
+data_path = '/home/lighting/liuhanwei/Occlusion FER/my occusion/RAF/dataset'
 
 
 parser = argparse.ArgumentParser()
