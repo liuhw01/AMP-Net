@@ -2,7 +2,7 @@ from collections import OrderedDict
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from attention import CBAM
+from attention import CBAM_O
 
 def dw_conv3x3(in_channels, out_channels, module_name, postfix,
             stride=1, kernel_size=3, padding=1):
@@ -45,7 +45,7 @@ def conv3x3_v1(
             ),
         ),
         (f"{module_name}_{postfix}/norm", nn.BatchNorm2d(out_channels)),
-        ('{}_{}/pw_cbam'.format(module_name, postfix), CBAM(out_channels, 16)),
+        ('{}_{}/pw_cbam'.format(module_name, postfix), CBAM_O(out_channels, 16)),
         (f"{module_name}_{postfix}/relu", nn.ReLU(inplace=True)),
     ]
 
