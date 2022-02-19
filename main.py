@@ -34,7 +34,7 @@ class ProgressMeter(object):
         print_txt = '\t'.join(entries)
         print(print_txt)
         txt_name = './log/' + time_str + 'log.txt'
-        with open(os.path.join(save_path,txt_name), 'a') as f:
+        with open(os.path.join(args.save_path,txt_name), 'a') as f:
             f.write(print_txt + '\n')
 
     def _get_batch_fmtstr(self, num_batches):
@@ -205,7 +205,6 @@ parser.add_argument('--save_path', type=str, default='./checkpoint')
 parser.add_argument('--data_root', type=str, default=data_path)
 parser.add_argument('--data_label', type=str, default='./index/data_label.txt')
 parser.add_argument('--land_marks', type=str, default='./index/land_marks.npy')
-parser.add_argument('--land_marks', type=str, default='./index/land_marks.npy')
 parser.add_argument('--lr', '--learning-rate', default=0.01, type=float, metavar='LR', dest='lr')
 parser.add_argument('--momentum', default=0.9, type=float, metavar='M')
 parser.add_argument('--weight_decay', default=1e-4, type=float, metavar='W', dest='weight_decay')
@@ -216,7 +215,7 @@ parser.add_argument('--pin_memory', default=True, type=str)
 parser.add_argument('--start-epoch', default=0, type=int, metavar='N', help='manual epoch number (useful on restarts)')
 parser.add_argument('--range', default=5, type=int, metavar='N', help='Intercept radius of AP-Module ')
 parser.add_argument('--dataset', type=str, default='RAF')
-args = parser.parse_args()
+args = parser.parse_args(args=[])
 print('beta', args.beta1)
 
 
