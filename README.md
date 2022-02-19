@@ -14,7 +14,22 @@ Ubuntu 16.04 LTS, Python 3.5, PyTorch 1.3
 
 
 ## Training
-* Step 1: In order to train your model, you need to first obtain the labels of the dataset and the coordinates of the five-point landmarks. Use the [RetinaFace toolkit](https://github.com/biubug6/Pytorch_Retinaface) to get  `data_label.txt` and `land_marks.npy` through `detect_torch.py`, 
+* Step 1: In order to train your model, you need to first obtain the labels of the dataset and the coordinates of the five-point landmarks. Use the [RetinaFace toolkit](https://github.com/biubug6/Pytorch_Retinaface) to get dataset list `data_label.txt` and facial key point `land_marks.npy` through `detect_torch.py` and place in `./index`.
+    The prepared file format is as follows:
+```
+./index/data_label.txt
+    train_00001.jpg 5
+    train_00002.jpg 5
+    train_00003.jpg 4
+    train_00004.jpg 4
+./index/land_marks.npy
+    
+
+
+```
+    ddd
+    '''
+
 
 
 
