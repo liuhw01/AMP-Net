@@ -6,7 +6,7 @@ This is the source code for paper
 Adaptive multi-layer perceptual attention network for facial expression recognition
 ---
 
-![The structure of the proposed method](https://github.com/liuhw01/dd/blob/main/occulsion.jpg)
+![The structure of the proposed method](https://github.com/liuhw01/AMP-Net/blob/main/checkpoint/proposed%20method.jpg)
 This paper proposed an adaptive multilayer perceptual attention network (AMP-Net) to extract global, local, and salient facial emotional features with different fine-grained features to obtain robust attributes. Aiming at the irregular facial appearance caused by occlusion and variant pose, AMP-Net can guide the network to adaptively focus on the fine subregions with a more reasonable allocation of facial organs and supplement facial features with a substantial emotional correlation to avoid the loss of network information.
 
 ## Environment requirest
