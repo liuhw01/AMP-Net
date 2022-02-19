@@ -1,1 +1,1 @@
-results
+Extensive experiments demonstrate that the proposed MA-Net achieves the state-of-the-art results on several in-the-wild FER benchmarks: CAER-S, AffectNet-7, AffectNet-8, RAFDB, and SFEW with accuracies of 88.42%, 64.53%, 60.29%, 88.40%, and 59.40% respectively.
