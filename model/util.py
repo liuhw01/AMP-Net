@@ -258,7 +258,7 @@ def default_loader(path):
     return Image.open(path).convert('RGB')  # operation object is the PIL image object
 
 
-class myImageFloder(datasets.ImageFolder):  # Class inheritance，继承Ｄａｔａｓｅｔ类
+class myImageFloder(datasets.ImageFolder):  # Class inheritance
     def __init__(self, root, label, transform=None, target_transform=None, loader=default_loader):
          # fh = open(label)
         c = 0
