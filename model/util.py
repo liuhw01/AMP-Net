@@ -456,7 +456,7 @@ class RecorderMeter(object):
         plt.close(fig)
 
 def save_checkpoint(state, is_best, kwargs):
-    torch.save(state, kwargs['checkpoint_path'])
+    torch.save(state, kwargs.checkpoint_path)
     if is_best:
-        shutil.copyfile(kwargs['checkpoint_path'], kwargs['best_checkpoint_path'])
+        shutil.copyfile(kwargs.checkpoint_path, kwargs.best_checkpoint_path)
 
