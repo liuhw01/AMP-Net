@@ -341,7 +341,7 @@ def main():
                          'state_dict': model.state_dict(),
                          'best_acc': best_acc,
                          'optimizer': optimizer.state_dict(),
-                         'recorder': recorder}, is_best, kwargs)
+                         'recorder': recorder}, is_best, args)
         end_time = time.time()
         epoch_time = end_time - start_time
         print("An Epoch Time: ", epoch_time)
