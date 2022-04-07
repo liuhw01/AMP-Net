@@ -48,7 +48,7 @@ Training results can be downloaded in [Google Drive](https://drive.google.com/dr
 @article{liu2022Adaptive,
   title={Adaptive multi-layer perceptual attention network for facial expression recognition},
   author={Hanwei Liu, Huiling Cai, Qingcheng Lin, Xuefeng Li, Hui Xiao},
-  journal={},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
   volume={},
   pages={},
   year={},
