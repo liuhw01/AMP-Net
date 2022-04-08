@@ -3,8 +3,9 @@ AMP-Net
 
 This is the source code for paper
 
-
 Hanwei Liu, Huiling Cai, Qingcheng Lin, Xuefeng Li, Hui Xiao, [Adaptive multilayer perceptual attention network for facial expression recognition](https://ieeexplore.ieee.org/document/9750079), IEEE Transactions on Circuits and Systems for Video Technology
+
+
 ---
 
 ![The structure of the proposed method](https://github.com/liuhw01/AMP-Net/blob/main/checkpoint/proposed%20method.png)
