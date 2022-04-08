@@ -3,7 +3,6 @@ AMP-Net
 
 This is the source code for paper
 
-IEEE Transactions on Circuits and Systems for Video Technology
 
 Adaptive multilayer perceptual attention network for facial expression recognition
 ---
