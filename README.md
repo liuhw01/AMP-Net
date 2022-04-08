@@ -45,12 +45,14 @@ Training results can be downloaded in [Google Drive](https://drive.google.com/dr
 ## If you use this work, please cite our paper
 
 ```
-@article{liu2022Adaptive,
-  title={Adaptive multilayer perceptual attention network for facial expression recognition},
+@ARTICLE{9750079,
   author={Liu, Hanwei and Cai, Huiling and Lin, Qingcheng and Li, Xuefeng and Xiao, Hui},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Adaptive multilayer perceptual attention network for facial expression recognition}, 
   year={2022},
-  publisher={IEEE}
-}
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2022.3165321}}
 ```
 
