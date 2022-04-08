@@ -3,7 +3,7 @@ AMP-Net
 
 This is the source code for paper
 
-Adaptive multi-layer perceptual attention network for facial expression recognition
+Adaptive multilayer perceptual attention network for facial expression recognition
 ---
 
 ![The structure of the proposed method](https://github.com/liuhw01/AMP-Net/blob/main/checkpoint/proposed%20method.png)
@@ -46,7 +46,7 @@ Training results can be downloaded in [Google Drive](https://drive.google.com/dr
 
 ```
 @article{liu2022Adaptive,
-  title={Adaptive multi-layer perceptual attention network for facial expression recognition},
+  title={Adaptive multilayer perceptual attention network for facial expression recognition},
   author={Liu, Hanwei and Cai, Huiling and Lin, Qingcheng and Li, Xuefeng and Xiao, Hui},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2022},
