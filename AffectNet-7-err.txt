@@ -1,0 +1,200 @@
+ * training Accuracy,output1: 34.516 * Accuracy,output2: 22.692
+ * vail Accuracy,output1: 47.132 * vail  Accuracy,output2: 35.562
+ * training Accuracy,output1: 47.056 * Accuracy,output2: 42.310
+ * vail Accuracy,output1: 52.802 * vail  Accuracy,output2: 47.647
+ * training Accuracy,output1: 52.242 * Accuracy,output2: 51.770
+ * vail Accuracy,output1: 55.408 * vail  Accuracy,output2: 52.086
+ * training Accuracy,output1: 55.066 * Accuracy,output2: 56.533
+ * vail Accuracy,output1: 57.011 * vail  Accuracy,output2: 57.441
+ * training Accuracy,output1: 57.122 * Accuracy,output2: 58.959
+ * vail Accuracy,output1: 58.529 * vail  Accuracy,output2: 59.961
+ * training Accuracy,output1: 58.078 * Accuracy,output2: 60.172
+ * vail Accuracy,output1: 57.613 * vail  Accuracy,output2: 57.613
+ * training Accuracy,output1: 59.225 * Accuracy,output2: 61.433
+ * vail Accuracy,output1: 55.751 * vail  Accuracy,output2: 57.269
+ * training Accuracy,output1: 60.077 * Accuracy,output2: 62.152
+ * vail Accuracy,output1: 59.474 * vail  Accuracy,output2: 61.307
+ * training Accuracy,output1: 60.695 * Accuracy,output2: 62.601
+ * vail Accuracy,output1: 59.302 * vail  Accuracy,output2: 57.928
+ * training Accuracy,output1: 61.388 * Accuracy,output2: 63.311
+ * vail Accuracy,output1: 60.419 * vail  Accuracy,output2: 61.192
+ * training Accuracy,output1: 62.036 * Accuracy,output2: 64.072
+ * vail Accuracy,output1: 59.990 * vail  Accuracy,output2: 61.250
+ * training Accuracy,output1: 62.537 * Accuracy,output2: 64.409
+ * vail Accuracy,output1: 61.393 * vail  Accuracy,output2: 60.877
+ * training Accuracy,output1: 63.028 * Accuracy,output2: 64.671
+ * vail Accuracy,output1: 60.820 * vail  Accuracy,output2: 60.763
+ * training Accuracy,output1: 63.658 * Accuracy,output2: 65.190
+ * vail Accuracy,output1: 59.904 * vail  Accuracy,output2: 59.675
+ * training Accuracy,output1: 63.692 * Accuracy,output2: 65.671
+ * vail Accuracy,output1: 60.648 * vail  Accuracy,output2: 61.078
+ * training Accuracy,output1: 64.276 * Accuracy,output2: 65.851
+ * vail Accuracy,output1: 61.880 * vail  Accuracy,output2: 62.481
+ * training Accuracy,output1: 64.500 * Accuracy,output2: 66.108
+ * vail Accuracy,output1: 62.052 * vail  Accuracy,output2: 62.997
+ * training Accuracy,output1: 64.507 * Accuracy,output2: 66.514
+ * vail Accuracy,output1: 60.276 * vail  Accuracy,output2: 61.307
+ * training Accuracy,output1: 64.937 * Accuracy,output2: 66.494
+ * vail Accuracy,output1: 59.245 * vail  Accuracy,output2: 60.047
+ * training Accuracy,output1: 64.967 * Accuracy,output2: 66.669
+ * vail Accuracy,output1: 62.223 * vail  Accuracy,output2: 62.166
+ * training Accuracy,output1: 67.688 * Accuracy,output2: 69.579
+ * vail Accuracy,output1: 63.913 * vail  Accuracy,output2: 64.257
+ * training Accuracy,output1: 68.361 * Accuracy,output2: 70.485
+ * vail Accuracy,output1: 62.997 * vail  Accuracy,output2: 63.655
+ * training Accuracy,output1: 68.916 * Accuracy,output2: 70.843
+ * vail Accuracy,output1: 63.369 * vail  Accuracy,output2: 63.970
+ * training Accuracy,output1: 68.967 * Accuracy,output2: 71.082
+ * vail Accuracy,output1: 63.598 * vail  Accuracy,output2: 64.056
+ * training Accuracy,output1: 69.377 * Accuracy,output2: 71.484
+ * vail Accuracy,output1: 62.997 * vail  Accuracy,output2: 64.027
+ * training Accuracy,output1: 69.522 * Accuracy,output2: 71.577
+ * vail Accuracy,output1: 63.054 * vail  Accuracy,output2: 63.483
+ * training Accuracy,output1: 69.758 * Accuracy,output2: 71.711
+ * vail Accuracy,output1: 63.254 * vail  Accuracy,output2: 63.913
+ * training Accuracy,output1: 69.912 * Accuracy,output2: 72.020
+ * vail Accuracy,output1: 62.997 * vail  Accuracy,output2: 63.999
+ * training Accuracy,output1: 70.080 * Accuracy,output2: 72.275
+ * vail Accuracy,output1: 63.168 * vail  Accuracy,output2: 63.970
+ * training Accuracy,output1: 70.242 * Accuracy,output2: 72.489
+ * vail Accuracy,output1: 63.054 * vail  Accuracy,output2: 63.397
+ * training Accuracy,output1: 70.485 * Accuracy,output2: 72.600
+ * vail Accuracy,output1: 62.796 * vail  Accuracy,output2: 63.082
+ * training Accuracy,output1: 70.472 * Accuracy,output2: 72.633
+ * vail Accuracy,output1: 63.111 * vail  Accuracy,output2: 63.884
+ * training Accuracy,output1: 70.799 * Accuracy,output2: 72.832
+ * vail Accuracy,output1: 63.455 * vail  Accuracy,output2: 63.541
+ * training Accuracy,output1: 70.937 * Accuracy,output2: 73.061
+ * vail Accuracy,output1: 62.481 * vail  Accuracy,output2: 63.312
+ * training Accuracy,output1: 70.762 * Accuracy,output2: 73.209
+ * vail Accuracy,output1: 62.137 * vail  Accuracy,output2: 62.682
+ * training Accuracy,output1: 70.924 * Accuracy,output2: 73.311
+ * vail Accuracy,output1: 62.968 * vail  Accuracy,output2: 63.512
+ * training Accuracy,output1: 71.425 * Accuracy,output2: 73.555
+ * vail Accuracy,output1: 62.281 * vail  Accuracy,output2: 62.796
+ * training Accuracy,output1: 71.170 * Accuracy,output2: 73.474
+ * vail Accuracy,output1: 62.968 * vail  Accuracy,output2: 63.684
+ * training Accuracy,output1: 71.384 * Accuracy,output2: 73.795
+ * vail Accuracy,output1: 62.395 * vail  Accuracy,output2: 62.796
+ * training Accuracy,output1: 71.669 * Accuracy,output2: 73.884
+ * vail Accuracy,output1: 62.338 * vail  Accuracy,output2: 63.455
+ * training Accuracy,output1: 72.175 * Accuracy,output2: 74.665
+ * vail Accuracy,output1: 62.395 * vail  Accuracy,output2: 63.856
+ * training Accuracy,output1: 72.492 * Accuracy,output2: 74.930
+ * vail Accuracy,output1: 62.309 * vail  Accuracy,output2: 63.856
+ * training Accuracy,output1: 72.518 * Accuracy,output2: 74.910
+ * vail Accuracy,output1: 62.767 * vail  Accuracy,output2: 63.770
+ * training Accuracy,output1: 72.653 * Accuracy,output2: 75.055
+ * vail Accuracy,output1: 62.624 * vail  Accuracy,output2: 63.627
+ * training Accuracy,output1: 72.526 * Accuracy,output2: 75.006
+ * vail Accuracy,output1: 62.624 * vail  Accuracy,output2: 63.283
+ * training Accuracy,output1: 72.535 * Accuracy,output2: 74.857
+ * vail Accuracy,output1: 62.767 * vail  Accuracy,output2: 63.369
+ * training Accuracy,output1: 72.665 * Accuracy,output2: 75.175
+ * vail Accuracy,output1: 62.911 * vail  Accuracy,output2: 63.168
+ * training Accuracy,output1: 72.837 * Accuracy,output2: 75.198
+ * vail Accuracy,output1: 62.882 * vail  Accuracy,output2: 63.397
+ * training Accuracy,output1: 72.843 * Accuracy,output2: 75.213
+ * vail Accuracy,output1: 62.739 * vail  Accuracy,output2: 63.111
+ * training Accuracy,output1: 72.671 * Accuracy,output2: 75.178
+ * vail Accuracy,output1: 62.567 * vail  Accuracy,output2: 63.025
+ * training Accuracy,output1: 72.739 * Accuracy,output2: 75.247
+ * vail Accuracy,output1: 62.682 * vail  Accuracy,output2: 63.226
+ * training Accuracy,output1: 72.754 * Accuracy,output2: 75.380
+ * vail Accuracy,output1: 62.682 * vail  Accuracy,output2: 63.254
+ * training Accuracy,output1: 72.803 * Accuracy,output2: 75.153
+ * vail Accuracy,output1: 62.682 * vail  Accuracy,output2: 63.426
+ * training Accuracy,output1: 72.752 * Accuracy,output2: 75.431
+ * vail Accuracy,output1: 62.739 * vail  Accuracy,output2: 62.997
+ * training Accuracy,output1: 72.985 * Accuracy,output2: 75.156
+ * vail Accuracy,output1: 62.882 * vail  Accuracy,output2: 63.455
+ * training Accuracy,output1: 72.951 * Accuracy,output2: 75.342
+ * vail Accuracy,output1: 62.481 * vail  Accuracy,output2: 62.882
+ * training Accuracy,output1: 72.929 * Accuracy,output2: 75.399
+ * vail Accuracy,output1: 62.710 * vail  Accuracy,output2: 63.025
+ * training Accuracy,output1: 72.874 * Accuracy,output2: 75.559
+ * vail Accuracy,output1: 62.853 * vail  Accuracy,output2: 63.312
+ * training Accuracy,output1: 73.211 * Accuracy,output2: 75.375
+ * vail Accuracy,output1: 62.624 * vail  Accuracy,output2: 63.340
+ * training Accuracy,output1: 72.874 * Accuracy,output2: 75.428
+ * vail Accuracy,output1: 62.481 * vail  Accuracy,output2: 62.939
+ * training Accuracy,output1: 73.177 * Accuracy,output2: 75.391
+ * vail Accuracy,output1: 62.767 * vail  Accuracy,output2: 62.997
+ * training Accuracy,output1: 73.002 * Accuracy,output2: 75.439
+ * vail Accuracy,output1: 62.825 * vail  Accuracy,output2: 63.140
+ * training Accuracy,output1: 73.171 * Accuracy,output2: 75.822
+ * vail Accuracy,output1: 62.538 * vail  Accuracy,output2: 63.226
+ * training Accuracy,output1: 73.090 * Accuracy,output2: 75.665
+ * vail Accuracy,output1: 62.682 * vail  Accuracy,output2: 63.111
+ * training Accuracy,output1: 73.110 * Accuracy,output2: 75.615
+ * vail Accuracy,output1: 62.596 * vail  Accuracy,output2: 63.226
+ * training Accuracy,output1: 73.113 * Accuracy,output2: 75.603
+ * vail Accuracy,output1: 62.710 * vail  Accuracy,output2: 63.168
+ * training Accuracy,output1: 73.064 * Accuracy,output2: 75.482
+ * vail Accuracy,output1: 62.853 * vail  Accuracy,output2: 63.340
+ * training Accuracy,output1: 72.970 * Accuracy,output2: 75.657
+ * vail Accuracy,output1: 62.767 * vail  Accuracy,output2: 63.226
+ * training Accuracy,output1: 73.167 * Accuracy,output2: 75.760
+ * vail Accuracy,output1: 62.653 * vail  Accuracy,output2: 63.226
+ * training Accuracy,output1: 72.977 * Accuracy,output2: 75.704
+ * vail Accuracy,output1: 62.653 * vail  Accuracy,output2: 63.226
+ * training Accuracy,output1: 72.880 * Accuracy,output2: 75.583
+ * vail Accuracy,output1: 62.796 * vail  Accuracy,output2: 63.426
+ * training Accuracy,output1: 73.017 * Accuracy,output2: 75.654
+ * vail Accuracy,output1: 62.767 * vail  Accuracy,output2: 63.082
+ * training Accuracy,output1: 73.333 * Accuracy,output2: 75.714
+ * vail Accuracy,output1: 62.825 * vail  Accuracy,output2: 63.025
+ * training Accuracy,output1: 72.887 * Accuracy,output2: 75.532
+ * vail Accuracy,output1: 62.538 * vail  Accuracy,output2: 63.283
+ * training Accuracy,output1: 73.203 * Accuracy,output2: 75.563
+ * vail Accuracy,output1: 62.682 * vail  Accuracy,output2: 63.140
+ * training Accuracy,output1: 73.154 * Accuracy,output2: 75.576
+ * vail Accuracy,output1: 62.739 * vail  Accuracy,output2: 63.140
+ * training Accuracy,output1: 73.150 * Accuracy,output2: 75.590
+ * vail Accuracy,output1: 62.682 * vail  Accuracy,output2: 63.168
+ * training Accuracy,output1: 73.093 * Accuracy,output2: 75.699
+ * vail Accuracy,output1: 62.653 * vail  Accuracy,output2: 63.054
+ * training Accuracy,output1: 73.241 * Accuracy,output2: 75.775
+ * vail Accuracy,output1: 62.796 * vail  Accuracy,output2: 63.111
+ * training Accuracy,output1: 73.247 * Accuracy,output2: 75.608
+ * vail Accuracy,output1: 62.596 * vail  Accuracy,output2: 63.312
+ * training Accuracy,output1: 73.336 * Accuracy,output2: 75.694
+ * vail Accuracy,output1: 62.653 * vail  Accuracy,output2: 63.168
+ * training Accuracy,output1: 73.260 * Accuracy,output2: 75.706
+ * vail Accuracy,output1: 62.567 * vail  Accuracy,output2: 63.140
+ * training Accuracy,output1: 73.034 * Accuracy,output2: 75.671
+ * vail Accuracy,output1: 62.682 * vail  Accuracy,output2: 63.197
+ * training Accuracy,output1: 73.376 * Accuracy,output2: 75.790
+ * vail Accuracy,output1: 62.653 * vail  Accuracy,output2: 63.226
+ * training Accuracy,output1: 73.267 * Accuracy,output2: 75.669
+ * vail Accuracy,output1: 62.395 * vail  Accuracy,output2: 63.197
+ * training Accuracy,output1: 72.826 * Accuracy,output2: 75.595
+ * vail Accuracy,output1: 62.596 * vail  Accuracy,output2: 63.054
+ * training Accuracy,output1: 73.327 * Accuracy,output2: 75.799
+ * vail Accuracy,output1: 62.567 * vail  Accuracy,output2: 63.369
+ * training Accuracy,output1: 73.078 * Accuracy,output2: 75.718
+ * vail Accuracy,output1: 62.538 * vail  Accuracy,output2: 63.226
+ * training Accuracy,output1: 73.203 * Accuracy,output2: 75.578
+ * vail Accuracy,output1: 62.739 * vail  Accuracy,output2: 63.197
+ * training Accuracy,output1: 73.149 * Accuracy,output2: 75.703
+ * vail Accuracy,output1: 62.653 * vail  Accuracy,output2: 63.168
+ * training Accuracy,output1: 73.071 * Accuracy,output2: 75.470
+ * vail Accuracy,output1: 62.624 * vail  Accuracy,output2: 63.168
+ * training Accuracy,output1: 73.189 * Accuracy,output2: 75.755
+ * vail Accuracy,output1: 62.624 * vail  Accuracy,output2: 63.111
+ * training Accuracy,output1: 73.074 * Accuracy,output2: 75.671
+ * vail Accuracy,output1: 62.567 * vail  Accuracy,output2: 63.340
+ * training Accuracy,output1: 73.181 * Accuracy,output2: 75.606
+ * vail Accuracy,output1: 62.682 * vail  Accuracy,output2: 63.254
+ * training Accuracy,output1: 73.115 * Accuracy,output2: 75.795
+ * vail Accuracy,output1: 62.567 * vail  Accuracy,output2: 63.111
+ * training Accuracy,output1: 73.324 * Accuracy,output2: 75.741
+ * vail Accuracy,output1: 62.710 * vail  Accuracy,output2: 62.825
+ * training Accuracy,output1: 72.997 * Accuracy,output2: 75.667
+ * vail Accuracy,output1: 62.596 * vail  Accuracy,output2: 63.168
+ * training Accuracy,output1: 73.069 * Accuracy,output2: 75.824
+ * vail Accuracy,output1: 62.596 * vail  Accuracy,output2: 63.254
+ * training Accuracy,output1: 73.091 * Accuracy,output2: 75.541
+ * vail Accuracy,output1: 62.767 * vail  Accuracy,output2: 63.254
+ * training Accuracy,output1: 73.233 * Accuracy,output2: 75.551
+ * vail Accuracy,output1: 62.739 * vail  Accuracy,output2: 63.054
