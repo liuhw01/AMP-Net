@@ -55,8 +55,6 @@ Training results can be downloaded in [Google Drive](https://drive.google.com/dr
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={Adaptive multilayer perceptual attention network for facial expression recognition}, 
   year={2022},
-  volume={},
-  number={},
   pages={1-1},
   doi={10.1109/TCSVT.2022.3165321}}
 ```
