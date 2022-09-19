@@ -1,0 +1,500 @@
+Current learning rate: 0.001
+ * training  Accuracy 33.600
+ * vail Accuracy 46.118
+Current best accuracy: 46.117645263671875
+20.300771951675415
+Current learning rate: 0.001
+ * training  Accuracy 39.583
+ * vail Accuracy 51.059
+Current best accuracy: 51.05882263183594
+18.320902824401855
+Current learning rate: 0.001
+ * training  Accuracy 46.154
+ * vail Accuracy 55.294
+Current best accuracy: 55.29411697387695
+18.4165518283844
+Current learning rate: 0.001
+ * training  Accuracy 49.092
+ * vail Accuracy 56.235
+Current best accuracy: 56.23529052734375
+18.4276385307312
+Current learning rate: 0.001
+ * training  Accuracy 52.244
+ * vail Accuracy 57.412
+Current best accuracy: 57.41176223754883
+18.605726718902588
+Current learning rate: 0.001
+ * training  Accuracy 57.158
+ * vail Accuracy 57.412
+Current best accuracy: 57.41176223754883
+17.848674297332764
+Current learning rate: 0.001
+ * training  Accuracy 56.303
+ * vail Accuracy 55.529
+Current best accuracy: 57.41176223754883
+17.836747646331787
+Current learning rate: 0.001
+ * training  Accuracy 57.906
+ * vail Accuracy 55.059
+Current best accuracy: 57.41176223754883
+18.002315521240234
+Current learning rate: 0.001
+ * training  Accuracy 59.562
+ * vail Accuracy 57.412
+Current best accuracy: 57.41176223754883
+18.09494924545288
+Current learning rate: 0.001
+ * training  Accuracy 60.470
+ * vail Accuracy 57.176
+Current best accuracy: 57.41176223754883
+18.111066102981567
+Current learning rate: 0.001
+ * training  Accuracy 60.203
+ * vail Accuracy 55.294
+Current best accuracy: 57.41176223754883
+17.743269443511963
+Current learning rate: 0.001
+ * training  Accuracy 63.355
+ * vail Accuracy 56.941
+Current best accuracy: 57.41176223754883
+18.04046320915222
+Current learning rate: 0.001
+ * training  Accuracy 64.423
+ * vail Accuracy 57.176
+Current best accuracy: 57.41176223754883
+17.996609926223755
+Current learning rate: 0.001
+ * training  Accuracy 64.637
+ * vail Accuracy 58.118
+Current best accuracy: 58.117645263671875
+18.78326153755188
+Current learning rate: 0.001
+ * training  Accuracy 65.385
+ * vail Accuracy 55.765
+Current best accuracy: 58.117645263671875
+17.957550048828125
+Current learning rate: 0.001
+ * training  Accuracy 67.895
+ * vail Accuracy 56.471
+Current best accuracy: 58.117645263671875
+18.079726457595825
+Current learning rate: 0.001
+ * training  Accuracy 66.453
+ * vail Accuracy 57.647
+Current best accuracy: 58.117645263671875
+18.048466444015503
+Current learning rate: 0.001
+ * training  Accuracy 65.331
+ * vail Accuracy 57.412
+Current best accuracy: 58.117645263671875
+17.927767992019653
+Current learning rate: 0.001
+ * training  Accuracy 70.780
+ * vail Accuracy 57.647
+Current best accuracy: 58.117645263671875
+17.865641355514526
+Current learning rate: 0.001
+ * training  Accuracy 69.765
+ * vail Accuracy 58.824
+Current best accuracy: 58.82352828979492
+18.440468072891235
+Current learning rate: 0.0001
+ * training  Accuracy 71.047
+ * vail Accuracy 57.176
+Current best accuracy: 58.82352828979492
+17.963521718978882
+Current learning rate: 0.0001
+ * training  Accuracy 69.765
+ * vail Accuracy 58.588
+Current best accuracy: 58.82352828979492
+17.82004976272583
+Current learning rate: 0.0001
+ * training  Accuracy 69.818
+ * vail Accuracy 58.353
+Current best accuracy: 58.82352828979492
+17.825862407684326
+Current learning rate: 0.0001
+ * training  Accuracy 69.017
+ * vail Accuracy 57.176
+Current best accuracy: 58.82352828979492
+18.024276733398438
+Current learning rate: 0.0001
+ * training  Accuracy 70.566
+ * vail Accuracy 59.765
+Current best accuracy: 59.76470184326172
+18.781965732574463
+Current learning rate: 0.0001
+ * training  Accuracy 68.323
+ * vail Accuracy 58.588
+Current best accuracy: 59.76470184326172
+18.138058185577393
+Current learning rate: 0.0001
+ * training  Accuracy 68.857
+ * vail Accuracy 58.118
+Current best accuracy: 59.76470184326172
+18.195026636123657
+Current learning rate: 0.0001
+ * training  Accuracy 69.818
+ * vail Accuracy 57.647
+Current best accuracy: 59.76470184326172
+18.3109872341156
+Current learning rate: 0.0001
+ * training  Accuracy 69.658
+ * vail Accuracy 57.647
+Current best accuracy: 59.76470184326172
+17.942437887191772
+Current learning rate: 0.0001
+ * training  Accuracy 69.872
+ * vail Accuracy 57.882
+Current best accuracy: 59.76470184326172
+18.086884021759033
+Current learning rate: 0.0001
+ * training  Accuracy 68.697
+ * vail Accuracy 56.941
+Current best accuracy: 59.76470184326172
+18.089284896850586
+Current learning rate: 0.0001
+ * training  Accuracy 70.673
+ * vail Accuracy 61.176
+Current best accuracy: 61.17646789550781
+18.811066150665283
+Current learning rate: 0.0001
+ * training  Accuracy 69.338
+ * vail Accuracy 59.059
+Current best accuracy: 61.17646789550781
+18.19290828704834
+Current learning rate: 0.0001
+ * training  Accuracy 69.551
+ * vail Accuracy 58.824
+Current best accuracy: 61.17646789550781
+17.806517601013184
+Current learning rate: 0.0001
+ * training  Accuracy 69.391
+ * vail Accuracy 56.706
+Current best accuracy: 61.17646789550781
+17.98239254951477
+Current learning rate: 0.0001
+ * training  Accuracy 69.338
+ * vail Accuracy 58.118
+Current best accuracy: 61.17646789550781
+17.92178750038147
+Current learning rate: 0.0001
+ * training  Accuracy 70.620
+ * vail Accuracy 56.941
+Current best accuracy: 61.17646789550781
+18.02883553504944
+Current learning rate: 0.0001
+ * training  Accuracy 71.955
+ * vail Accuracy 58.824
+Current best accuracy: 61.17646789550781
+17.994065761566162
+Current learning rate: 0.0001
+ * training  Accuracy 69.658
+ * vail Accuracy 56.941
+Current best accuracy: 61.17646789550781
+18.163321256637573
+Current learning rate: 0.0001
+ * training  Accuracy 69.979
+ * vail Accuracy 59.294
+Current best accuracy: 61.17646789550781
+18.546463012695312
+Current learning rate: 1e-05
+ * training  Accuracy 70.139
+ * vail Accuracy 56.706
+Current best accuracy: 61.17646789550781
+18.650238752365112
+Current learning rate: 1e-05
+ * training  Accuracy 69.979
+ * vail Accuracy 58.353
+Current best accuracy: 61.17646789550781
+18.40282106399536
+Current learning rate: 1e-05
+ * training  Accuracy 68.109
+ * vail Accuracy 59.294
+Current best accuracy: 61.17646789550781
+18.293397188186646
+Current learning rate: 1e-05
+ * training  Accuracy 68.109
+ * vail Accuracy 58.824
+Current best accuracy: 61.17646789550781
+18.01453685760498
+Current learning rate: 1e-05
+ * training  Accuracy 70.246
+ * vail Accuracy 59.294
+Current best accuracy: 61.17646789550781
+18.187201738357544
+Current learning rate: 1e-05
+ * training  Accuracy 69.872
+ * vail Accuracy 57.176
+Current best accuracy: 61.17646789550781
+18.05388855934143
+Current learning rate: 1e-05
+ * training  Accuracy 70.940
+ * vail Accuracy 58.118
+Current best accuracy: 61.17646789550781
+18.083373546600342
+Current learning rate: 1e-05
+ * training  Accuracy 70.566
+ * vail Accuracy 59.529
+Current best accuracy: 61.17646789550781
+18.004815816879272
+Current learning rate: 1e-05
+ * training  Accuracy 70.566
+ * vail Accuracy 59.294
+Current best accuracy: 61.17646789550781
+18.103349685668945
+Current learning rate: 1e-05
+ * training  Accuracy 68.483
+ * vail Accuracy 58.118
+Current best accuracy: 61.17646789550781
+17.985384464263916
+Current learning rate: 1e-05
+ * training  Accuracy 68.803
+ * vail Accuracy 56.471
+Current best accuracy: 61.17646789550781
+17.952586889266968
+Current learning rate: 1e-05
+ * training  Accuracy 68.323
+ * vail Accuracy 59.529
+Current best accuracy: 61.17646789550781
+18.227208614349365
+Current learning rate: 1e-05
+ * training  Accuracy 68.056
+ * vail Accuracy 56.000
+Current best accuracy: 61.17646789550781
+17.947248458862305
+Current learning rate: 1e-05
+ * training  Accuracy 68.536
+ * vail Accuracy 58.824
+Current best accuracy: 61.17646789550781
+18.085389137268066
+Current learning rate: 1e-05
+ * training  Accuracy 69.017
+ * vail Accuracy 58.118
+Current best accuracy: 61.17646789550781
+18.1341872215271
+Current learning rate: 1e-05
+ * training  Accuracy 69.765
+ * vail Accuracy 59.294
+Current best accuracy: 61.17646789550781
+18.182119131088257
+Current learning rate: 1e-05
+ * training  Accuracy 68.697
+ * vail Accuracy 56.235
+Current best accuracy: 61.17646789550781
+17.98046326637268
+Current learning rate: 1e-05
+ * training  Accuracy 68.590
+ * vail Accuracy 58.353
+Current best accuracy: 61.17646789550781
+18.028725624084473
+Current learning rate: 1e-05
+ * training  Accuracy 70.246
+ * vail Accuracy 59.294
+Current best accuracy: 61.17646789550781
+18.195582389831543
+Current learning rate: 1e-05
+ * training  Accuracy 66.453
+ * vail Accuracy 56.471
+Current best accuracy: 61.17646789550781
+17.876845359802246
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 69.017
+ * vail Accuracy 59.059
+Current best accuracy: 61.17646789550781
+18.10477089881897
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 66.934
+ * vail Accuracy 57.882
+Current best accuracy: 61.17646789550781
+18.297639846801758
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 67.147
+ * vail Accuracy 57.176
+Current best accuracy: 61.17646789550781
+18.124467134475708
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 68.429
+ * vail Accuracy 60.000
+Current best accuracy: 61.17646789550781
+17.88645601272583
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 68.910
+ * vail Accuracy 55.765
+Current best accuracy: 61.17646789550781
+17.97954821586609
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 66.880
+ * vail Accuracy 58.588
+Current best accuracy: 61.17646789550781
+18.014885902404785
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 66.560
+ * vail Accuracy 58.588
+Current best accuracy: 61.17646789550781
+17.987459897994995
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 66.827
+ * vail Accuracy 59.059
+Current best accuracy: 61.17646789550781
+18.097565174102783
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 70.246
+ * vail Accuracy 57.647
+Current best accuracy: 61.17646789550781
+18.190820932388306
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 67.361
+ * vail Accuracy 57.882
+Current best accuracy: 61.17646789550781
+18.158701181411743
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 68.910
+ * vail Accuracy 57.412
+Current best accuracy: 61.17646789550781
+18.127399921417236
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 68.002
+ * vail Accuracy 56.235
+Current best accuracy: 61.17646789550781
+18.01522660255432
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 68.910
+ * vail Accuracy 58.824
+Current best accuracy: 61.17646789550781
+18.073812007904053
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 67.201
+ * vail Accuracy 59.059
+Current best accuracy: 61.17646789550781
+17.864479303359985
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 67.788
+ * vail Accuracy 58.118
+Current best accuracy: 61.17646789550781
+17.932901859283447
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 65.972
+ * vail Accuracy 58.353
+Current best accuracy: 61.17646789550781
+17.97527551651001
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 68.376
+ * vail Accuracy 58.588
+Current best accuracy: 61.17646789550781
+17.833840370178223
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 67.201
+ * vail Accuracy 57.882
+Current best accuracy: 61.17646789550781
+17.874812602996826
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 66.186
+ * vail Accuracy 60.941
+Current best accuracy: 61.17646789550781
+17.953763246536255
+Current learning rate: 1.0000000000000002e-06
+ * training  Accuracy 65.652
+ * vail Accuracy 57.882
+Current best accuracy: 61.17646789550781
+18.013044118881226
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 65.064
+ * vail Accuracy 59.529
+Current best accuracy: 61.17646789550781
+18.161103010177612
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 65.705
+ * vail Accuracy 57.412
+Current best accuracy: 61.17646789550781
+18.127012968063354
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 67.468
+ * vail Accuracy 56.471
+Current best accuracy: 61.17646789550781
+18.176843881607056
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 66.720
+ * vail Accuracy 59.294
+Current best accuracy: 61.17646789550781
+17.91826605796814
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 67.361
+ * vail Accuracy 58.353
+Current best accuracy: 61.17646789550781
+18.16153073310852
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 66.453
+ * vail Accuracy 57.647
+Current best accuracy: 61.17646789550781
+18.053252696990967
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 66.186
+ * vail Accuracy 57.882
+Current best accuracy: 61.17646789550781
+18.101228952407837
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 65.652
+ * vail Accuracy 58.588
+Current best accuracy: 61.17646789550781
+18.114205360412598
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 66.346
+ * vail Accuracy 57.412
+Current best accuracy: 61.17646789550781
+18.203271865844727
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 67.895
+ * vail Accuracy 59.059
+Current best accuracy: 61.17646789550781
+18.036328315734863
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 66.239
+ * vail Accuracy 55.529
+Current best accuracy: 61.17646789550781
+17.99364447593689
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 65.812
+ * vail Accuracy 59.765
+Current best accuracy: 61.17646789550781
+17.97732663154602
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 66.827
+ * vail Accuracy 56.471
+Current best accuracy: 61.17646789550781
+18.18927526473999
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 66.774
+ * vail Accuracy 60.471
+Current best accuracy: 61.17646789550781
+18.152868032455444
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 65.064
+ * vail Accuracy 59.294
+Current best accuracy: 61.17646789550781
+17.898746013641357
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 67.628
+ * vail Accuracy 58.118
+Current best accuracy: 61.17646789550781
+17.69822645187378
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 67.041
+ * vail Accuracy 57.882
+Current best accuracy: 61.17646789550781
+17.8053138256073
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 65.705
+ * vail Accuracy 57.647
+Current best accuracy: 61.17646789550781
+17.73811650276184
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 64.263
+ * vail Accuracy 57.176
+Current best accuracy: 61.17646789550781
+17.724247217178345
+Current learning rate: 1.0000000000000002e-07
+ * training  Accuracy 64.423
+ * vail Accuracy 59.294
+Current best accuracy: 61.17646789550781
+17.78297710418701
